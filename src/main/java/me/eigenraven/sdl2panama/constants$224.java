@@ -23,7 +23,7 @@ final class constants$224 {
         "SDL_Vulkan_GetDrawableSize",
         constants$53.const$2
     );
-    static final MemorySegment const$3 = RuntimeHelper.CONSTANT_ALLOCATOR.allocateUtf8String("/tmp/jextract$3622914355630244005.h");
+    static final MemorySegment const$3 = RuntimeHelper.CONSTANT_ALLOCATOR.allocateUtf8String("/tmp/jextract$2849531975144086477.h");
     static final MemorySegment const$4 = RuntimeHelper.CONSTANT_ALLOCATOR.allocateUtf8String("SDL_ACCELEROMETER_AS_JOYSTICK");
     static final MemorySegment const$5 = RuntimeHelper.CONSTANT_ALLOCATOR.allocateUtf8String("SDL_ALLOW_ALT_TAB_WHILE_GRABBED");
 }

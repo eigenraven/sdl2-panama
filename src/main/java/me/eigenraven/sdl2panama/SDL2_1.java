@@ -17,6 +17,8 @@ public class SDL2_1 {
     public static int SDLK_HELP() {
         return (int)1073741941L;
     }
+    /** (int)1073741941L */
+    public static final int SDLK_HELP = SDLK_HELP();
     /**
      * {@snippet :
      * enum .SDLK_MENU = 1073741942;
@@ -25,6 +27,8 @@ public class SDL2_1 {
     public static int SDLK_MENU() {
         return (int)1073741942L;
     }
+    /** (int)1073741942L */
+    public static final int SDLK_MENU = SDLK_MENU();
     /**
      * {@snippet :
      * enum .SDLK_SELECT = 1073741943;
@@ -33,6 +37,8 @@ public class SDL2_1 {
     public static int SDLK_SELECT() {
         return (int)1073741943L;
     }
+    /** (int)1073741943L */
+    public static final int SDLK_SELECT = SDLK_SELECT();
     /**
      * {@snippet :
      * enum .SDLK_STOP = 1073741944;
@@ -41,6 +47,8 @@ public class SDL2_1 {
     public static int SDLK_STOP() {
         return (int)1073741944L;
     }
+    /** (int)1073741944L */
+    public static final int SDLK_STOP = SDLK_STOP();
     /**
      * {@snippet :
      * enum .SDLK_AGAIN = 1073741945;
@@ -49,6 +57,8 @@ public class SDL2_1 {
     public static int SDLK_AGAIN() {
         return (int)1073741945L;
     }
+    /** (int)1073741945L */
+    public static final int SDLK_AGAIN = SDLK_AGAIN();
     /**
      * {@snippet :
      * enum .SDLK_UNDO = 1073741946;
@@ -57,6 +67,8 @@ public class SDL2_1 {
     public static int SDLK_UNDO() {
         return (int)1073741946L;
     }
+    /** (int)1073741946L */
+    public static final int SDLK_UNDO = SDLK_UNDO();
     /**
      * {@snippet :
      * enum .SDLK_CUT = 1073741947;
@@ -65,6 +77,8 @@ public class SDL2_1 {
     public static int SDLK_CUT() {
         return (int)1073741947L;
     }
+    /** (int)1073741947L */
+    public static final int SDLK_CUT = SDLK_CUT();
     /**
      * {@snippet :
      * enum .SDLK_COPY = 1073741948;
@@ -73,6 +87,8 @@ public class SDL2_1 {
     public static int SDLK_COPY() {
         return (int)1073741948L;
     }
+    /** (int)1073741948L */
+    public static final int SDLK_COPY = SDLK_COPY();
     /**
      * {@snippet :
      * enum .SDLK_PASTE = 1073741949;
@@ -81,6 +97,8 @@ public class SDL2_1 {
     public static int SDLK_PASTE() {
         return (int)1073741949L;
     }
+    /** (int)1073741949L */
+    public static final int SDLK_PASTE = SDLK_PASTE();
     /**
      * {@snippet :
      * enum .SDLK_FIND = 1073741950;
@@ -89,6 +107,8 @@ public class SDL2_1 {
     public static int SDLK_FIND() {
         return (int)1073741950L;
     }
+    /** (int)1073741950L */
+    public static final int SDLK_FIND = SDLK_FIND();
     /**
      * {@snippet :
      * enum .SDLK_MUTE = 1073741951;
@@ -97,6 +117,8 @@ public class SDL2_1 {
     public static int SDLK_MUTE() {
         return (int)1073741951L;
     }
+    /** (int)1073741951L */
+    public static final int SDLK_MUTE = SDLK_MUTE();
     /**
      * {@snippet :
      * enum .SDLK_VOLUMEUP = 1073741952;
@@ -105,6 +127,8 @@ public class SDL2_1 {
     public static int SDLK_VOLUMEUP() {
         return (int)1073741952L;
     }
+    /** (int)1073741952L */
+    public static final int SDLK_VOLUMEUP = SDLK_VOLUMEUP();
     /**
      * {@snippet :
      * enum .SDLK_VOLUMEDOWN = 1073741953;
@@ -113,6 +137,8 @@ public class SDL2_1 {
     public static int SDLK_VOLUMEDOWN() {
         return (int)1073741953L;
     }
+    /** (int)1073741953L */
+    public static final int SDLK_VOLUMEDOWN = SDLK_VOLUMEDOWN();
     /**
      * {@snippet :
      * enum .SDLK_KP_COMMA = 1073741957;
@@ -121,6 +147,8 @@ public class SDL2_1 {
     public static int SDLK_KP_COMMA() {
         return (int)1073741957L;
     }
+    /** (int)1073741957L */
+    public static final int SDLK_KP_COMMA = SDLK_KP_COMMA();
     /**
      * {@snippet :
      * enum .SDLK_KP_EQUALSAS400 = 1073741958;
@@ -129,6 +157,8 @@ public class SDL2_1 {
     public static int SDLK_KP_EQUALSAS400() {
         return (int)1073741958L;
     }
+    /** (int)1073741958L */
+    public static final int SDLK_KP_EQUALSAS400 = SDLK_KP_EQUALSAS400();
     /**
      * {@snippet :
      * enum .SDLK_ALTERASE = 1073741977;
@@ -137,6 +167,8 @@ public class SDL2_1 {
     public static int SDLK_ALTERASE() {
         return (int)1073741977L;
     }
+    /** (int)1073741977L */
+    public static final int SDLK_ALTERASE = SDLK_ALTERASE();
     /**
      * {@snippet :
      * enum .SDLK_SYSREQ = 1073741978;
@@ -145,6 +177,8 @@ public class SDL2_1 {
     public static int SDLK_SYSREQ() {
         return (int)1073741978L;
     }
+    /** (int)1073741978L */
+    public static final int SDLK_SYSREQ = SDLK_SYSREQ();
     /**
      * {@snippet :
      * enum .SDLK_CANCEL = 1073741979;
@@ -153,6 +187,8 @@ public class SDL2_1 {
     public static int SDLK_CANCEL() {
         return (int)1073741979L;
     }
+    /** (int)1073741979L */
+    public static final int SDLK_CANCEL = SDLK_CANCEL();
     /**
      * {@snippet :
      * enum .SDLK_CLEAR = 1073741980;
@@ -161,6 +197,8 @@ public class SDL2_1 {
     public static int SDLK_CLEAR() {
         return (int)1073741980L;
     }
+    /** (int)1073741980L */
+    public static final int SDLK_CLEAR = SDLK_CLEAR();
     /**
      * {@snippet :
      * enum .SDLK_PRIOR = 1073741981;
@@ -169,6 +207,8 @@ public class SDL2_1 {
     public static int SDLK_PRIOR() {
         return (int)1073741981L;
     }
+    /** (int)1073741981L */
+    public static final int SDLK_PRIOR = SDLK_PRIOR();
     /**
      * {@snippet :
      * enum .SDLK_RETURN2 = 1073741982;
@@ -177,6 +217,8 @@ public class SDL2_1 {
     public static int SDLK_RETURN2() {
         return (int)1073741982L;
     }
+    /** (int)1073741982L */
+    public static final int SDLK_RETURN2 = SDLK_RETURN2();
     /**
      * {@snippet :
      * enum .SDLK_SEPARATOR = 1073741983;
@@ -185,6 +227,8 @@ public class SDL2_1 {
     public static int SDLK_SEPARATOR() {
         return (int)1073741983L;
     }
+    /** (int)1073741983L */
+    public static final int SDLK_SEPARATOR = SDLK_SEPARATOR();
     /**
      * {@snippet :
      * enum .SDLK_OUT = 1073741984;
@@ -193,6 +237,8 @@ public class SDL2_1 {
     public static int SDLK_OUT() {
         return (int)1073741984L;
     }
+    /** (int)1073741984L */
+    public static final int SDLK_OUT = SDLK_OUT();
     /**
      * {@snippet :
      * enum .SDLK_OPER = 1073741985;
@@ -201,6 +247,8 @@ public class SDL2_1 {
     public static int SDLK_OPER() {
         return (int)1073741985L;
     }
+    /** (int)1073741985L */
+    public static final int SDLK_OPER = SDLK_OPER();
     /**
      * {@snippet :
      * enum .SDLK_CLEARAGAIN = 1073741986;
@@ -209,6 +257,8 @@ public class SDL2_1 {
     public static int SDLK_CLEARAGAIN() {
         return (int)1073741986L;
     }
+    /** (int)1073741986L */
+    public static final int SDLK_CLEARAGAIN = SDLK_CLEARAGAIN();
     /**
      * {@snippet :
      * enum .SDLK_CRSEL = 1073741987;
@@ -217,6 +267,8 @@ public class SDL2_1 {
     public static int SDLK_CRSEL() {
         return (int)1073741987L;
     }
+    /** (int)1073741987L */
+    public static final int SDLK_CRSEL = SDLK_CRSEL();
     /**
      * {@snippet :
      * enum .SDLK_EXSEL = 1073741988;
@@ -225,6 +277,8 @@ public class SDL2_1 {
     public static int SDLK_EXSEL() {
         return (int)1073741988L;
     }
+    /** (int)1073741988L */
+    public static final int SDLK_EXSEL = SDLK_EXSEL();
     /**
      * {@snippet :
      * enum .SDLK_KP_00 = 1073742000;
@@ -233,6 +287,8 @@ public class SDL2_1 {
     public static int SDLK_KP_00() {
         return (int)1073742000L;
     }
+    /** (int)1073742000L */
+    public static final int SDLK_KP_00 = SDLK_KP_00();
     /**
      * {@snippet :
      * enum .SDLK_KP_000 = 1073742001;
@@ -241,6 +297,8 @@ public class SDL2_1 {
     public static int SDLK_KP_000() {
         return (int)1073742001L;
     }
+    /** (int)1073742001L */
+    public static final int SDLK_KP_000 = SDLK_KP_000();
     /**
      * {@snippet :
      * enum .SDLK_THOUSANDSSEPARATOR = 1073742002;
@@ -249,6 +307,8 @@ public class SDL2_1 {
     public static int SDLK_THOUSANDSSEPARATOR() {
         return (int)1073742002L;
     }
+    /** (int)1073742002L */
+    public static final int SDLK_THOUSANDSSEPARATOR = SDLK_THOUSANDSSEPARATOR();
     /**
      * {@snippet :
      * enum .SDLK_DECIMALSEPARATOR = 1073742003;
@@ -257,6 +317,8 @@ public class SDL2_1 {
     public static int SDLK_DECIMALSEPARATOR() {
         return (int)1073742003L;
     }
+    /** (int)1073742003L */
+    public static final int SDLK_DECIMALSEPARATOR = SDLK_DECIMALSEPARATOR();
     /**
      * {@snippet :
      * enum .SDLK_CURRENCYUNIT = 1073742004;
@@ -265,6 +327,8 @@ public class SDL2_1 {
     public static int SDLK_CURRENCYUNIT() {
         return (int)1073742004L;
     }
+    /** (int)1073742004L */
+    public static final int SDLK_CURRENCYUNIT = SDLK_CURRENCYUNIT();
     /**
      * {@snippet :
      * enum .SDLK_CURRENCYSUBUNIT = 1073742005;
@@ -273,6 +337,8 @@ public class SDL2_1 {
     public static int SDLK_CURRENCYSUBUNIT() {
         return (int)1073742005L;
     }
+    /** (int)1073742005L */
+    public static final int SDLK_CURRENCYSUBUNIT = SDLK_CURRENCYSUBUNIT();
     /**
      * {@snippet :
      * enum .SDLK_KP_LEFTPAREN = 1073742006;
@@ -281,6 +347,8 @@ public class SDL2_1 {
     public static int SDLK_KP_LEFTPAREN() {
         return (int)1073742006L;
     }
+    /** (int)1073742006L */
+    public static final int SDLK_KP_LEFTPAREN = SDLK_KP_LEFTPAREN();
     /**
      * {@snippet :
      * enum .SDLK_KP_RIGHTPAREN = 1073742007;
@@ -289,6 +357,8 @@ public class SDL2_1 {
     public static int SDLK_KP_RIGHTPAREN() {
         return (int)1073742007L;
     }
+    /** (int)1073742007L */
+    public static final int SDLK_KP_RIGHTPAREN = SDLK_KP_RIGHTPAREN();
     /**
      * {@snippet :
      * enum .SDLK_KP_LEFTBRACE = 1073742008;
@@ -297,6 +367,8 @@ public class SDL2_1 {
     public static int SDLK_KP_LEFTBRACE() {
         return (int)1073742008L;
     }
+    /** (int)1073742008L */
+    public static final int SDLK_KP_LEFTBRACE = SDLK_KP_LEFTBRACE();
     /**
      * {@snippet :
      * enum .SDLK_KP_RIGHTBRACE = 1073742009;
@@ -305,6 +377,8 @@ public class SDL2_1 {
     public static int SDLK_KP_RIGHTBRACE() {
         return (int)1073742009L;
     }
+    /** (int)1073742009L */
+    public static final int SDLK_KP_RIGHTBRACE = SDLK_KP_RIGHTBRACE();
     /**
      * {@snippet :
      * enum .SDLK_KP_TAB = 1073742010;
@@ -313,6 +387,8 @@ public class SDL2_1 {
     public static int SDLK_KP_TAB() {
         return (int)1073742010L;
     }
+    /** (int)1073742010L */
+    public static final int SDLK_KP_TAB = SDLK_KP_TAB();
     /**
      * {@snippet :
      * enum .SDLK_KP_BACKSPACE = 1073742011;
@@ -321,6 +397,8 @@ public class SDL2_1 {
     public static int SDLK_KP_BACKSPACE() {
         return (int)1073742011L;
     }
+    /** (int)1073742011L */
+    public static final int SDLK_KP_BACKSPACE = SDLK_KP_BACKSPACE();
     /**
      * {@snippet :
      * enum .SDLK_KP_A = 1073742012;
@@ -329,6 +407,8 @@ public class SDL2_1 {
     public static int SDLK_KP_A() {
         return (int)1073742012L;
     }
+    /** (int)1073742012L */
+    public static final int SDLK_KP_A = SDLK_KP_A();
     /**
      * {@snippet :
      * enum .SDLK_KP_B = 1073742013;
@@ -337,6 +417,8 @@ public class SDL2_1 {
     public static int SDLK_KP_B() {
         return (int)1073742013L;
     }
+    /** (int)1073742013L */
+    public static final int SDLK_KP_B = SDLK_KP_B();
     /**
      * {@snippet :
      * enum .SDLK_KP_C = 1073742014;
@@ -345,6 +427,8 @@ public class SDL2_1 {
     public static int SDLK_KP_C() {
         return (int)1073742014L;
     }
+    /** (int)1073742014L */
+    public static final int SDLK_KP_C = SDLK_KP_C();
     /**
      * {@snippet :
      * enum .SDLK_KP_D = 1073742015;
@@ -353,6 +437,8 @@ public class SDL2_1 {
     public static int SDLK_KP_D() {
         return (int)1073742015L;
     }
+    /** (int)1073742015L */
+    public static final int SDLK_KP_D = SDLK_KP_D();
     /**
      * {@snippet :
      * enum .SDLK_KP_E = 1073742016;
@@ -361,6 +447,8 @@ public class SDL2_1 {
     public static int SDLK_KP_E() {
         return (int)1073742016L;
     }
+    /** (int)1073742016L */
+    public static final int SDLK_KP_E = SDLK_KP_E();
     /**
      * {@snippet :
      * enum .SDLK_KP_F = 1073742017;
@@ -369,6 +457,8 @@ public class SDL2_1 {
     public static int SDLK_KP_F() {
         return (int)1073742017L;
     }
+    /** (int)1073742017L */
+    public static final int SDLK_KP_F = SDLK_KP_F();
     /**
      * {@snippet :
      * enum .SDLK_KP_XOR = 1073742018;
@@ -377,6 +467,8 @@ public class SDL2_1 {
     public static int SDLK_KP_XOR() {
         return (int)1073742018L;
     }
+    /** (int)1073742018L */
+    public static final int SDLK_KP_XOR = SDLK_KP_XOR();
     /**
      * {@snippet :
      * enum .SDLK_KP_POWER = 1073742019;
@@ -385,6 +477,8 @@ public class SDL2_1 {
     public static int SDLK_KP_POWER() {
         return (int)1073742019L;
     }
+    /** (int)1073742019L */
+    public static final int SDLK_KP_POWER = SDLK_KP_POWER();
     /**
      * {@snippet :
      * enum .SDLK_KP_PERCENT = 1073742020;
@@ -393,6 +487,8 @@ public class SDL2_1 {
     public static int SDLK_KP_PERCENT() {
         return (int)1073742020L;
     }
+    /** (int)1073742020L */
+    public static final int SDLK_KP_PERCENT = SDLK_KP_PERCENT();
     /**
      * {@snippet :
      * enum .SDLK_KP_LESS = 1073742021;
@@ -401,6 +497,8 @@ public class SDL2_1 {
     public static int SDLK_KP_LESS() {
         return (int)1073742021L;
     }
+    /** (int)1073742021L */
+    public static final int SDLK_KP_LESS = SDLK_KP_LESS();
     /**
      * {@snippet :
      * enum .SDLK_KP_GREATER = 1073742022;
@@ -409,6 +507,8 @@ public class SDL2_1 {
     public static int SDLK_KP_GREATER() {
         return (int)1073742022L;
     }
+    /** (int)1073742022L */
+    public static final int SDLK_KP_GREATER = SDLK_KP_GREATER();
     /**
      * {@snippet :
      * enum .SDLK_KP_AMPERSAND = 1073742023;
@@ -417,6 +517,8 @@ public class SDL2_1 {
     public static int SDLK_KP_AMPERSAND() {
         return (int)1073742023L;
     }
+    /** (int)1073742023L */
+    public static final int SDLK_KP_AMPERSAND = SDLK_KP_AMPERSAND();
     /**
      * {@snippet :
      * enum .SDLK_KP_DBLAMPERSAND = 1073742024;
@@ -425,6 +527,8 @@ public class SDL2_1 {
     public static int SDLK_KP_DBLAMPERSAND() {
         return (int)1073742024L;
     }
+    /** (int)1073742024L */
+    public static final int SDLK_KP_DBLAMPERSAND = SDLK_KP_DBLAMPERSAND();
     /**
      * {@snippet :
      * enum .SDLK_KP_VERTICALBAR = 1073742025;
@@ -433,6 +537,8 @@ public class SDL2_1 {
     public static int SDLK_KP_VERTICALBAR() {
         return (int)1073742025L;
     }
+    /** (int)1073742025L */
+    public static final int SDLK_KP_VERTICALBAR = SDLK_KP_VERTICALBAR();
     /**
      * {@snippet :
      * enum .SDLK_KP_DBLVERTICALBAR = 1073742026;
@@ -441,6 +547,8 @@ public class SDL2_1 {
     public static int SDLK_KP_DBLVERTICALBAR() {
         return (int)1073742026L;
     }
+    /** (int)1073742026L */
+    public static final int SDLK_KP_DBLVERTICALBAR = SDLK_KP_DBLVERTICALBAR();
     /**
      * {@snippet :
      * enum .SDLK_KP_COLON = 1073742027;
@@ -449,6 +557,8 @@ public class SDL2_1 {
     public static int SDLK_KP_COLON() {
         return (int)1073742027L;
     }
+    /** (int)1073742027L */
+    public static final int SDLK_KP_COLON = SDLK_KP_COLON();
     /**
      * {@snippet :
      * enum .SDLK_KP_HASH = 1073742028;
@@ -457,6 +567,8 @@ public class SDL2_1 {
     public static int SDLK_KP_HASH() {
         return (int)1073742028L;
     }
+    /** (int)1073742028L */
+    public static final int SDLK_KP_HASH = SDLK_KP_HASH();
     /**
      * {@snippet :
      * enum .SDLK_KP_SPACE = 1073742029;
@@ -465,6 +577,8 @@ public class SDL2_1 {
     public static int SDLK_KP_SPACE() {
         return (int)1073742029L;
     }
+    /** (int)1073742029L */
+    public static final int SDLK_KP_SPACE = SDLK_KP_SPACE();
     /**
      * {@snippet :
      * enum .SDLK_KP_AT = 1073742030;
@@ -473,6 +587,8 @@ public class SDL2_1 {
     public static int SDLK_KP_AT() {
         return (int)1073742030L;
     }
+    /** (int)1073742030L */
+    public static final int SDLK_KP_AT = SDLK_KP_AT();
     /**
      * {@snippet :
      * enum .SDLK_KP_EXCLAM = 1073742031;
@@ -481,6 +597,8 @@ public class SDL2_1 {
     public static int SDLK_KP_EXCLAM() {
         return (int)1073742031L;
     }
+    /** (int)1073742031L */
+    public static final int SDLK_KP_EXCLAM = SDLK_KP_EXCLAM();
     /**
      * {@snippet :
      * enum .SDLK_KP_MEMSTORE = 1073742032;
@@ -489,6 +607,8 @@ public class SDL2_1 {
     public static int SDLK_KP_MEMSTORE() {
         return (int)1073742032L;
     }
+    /** (int)1073742032L */
+    public static final int SDLK_KP_MEMSTORE = SDLK_KP_MEMSTORE();
     /**
      * {@snippet :
      * enum .SDLK_KP_MEMRECALL = 1073742033;
@@ -497,6 +617,8 @@ public class SDL2_1 {
     public static int SDLK_KP_MEMRECALL() {
         return (int)1073742033L;
     }
+    /** (int)1073742033L */
+    public static final int SDLK_KP_MEMRECALL = SDLK_KP_MEMRECALL();
     /**
      * {@snippet :
      * enum .SDLK_KP_MEMCLEAR = 1073742034;
@@ -505,6 +627,8 @@ public class SDL2_1 {
     public static int SDLK_KP_MEMCLEAR() {
         return (int)1073742034L;
     }
+    /** (int)1073742034L */
+    public static final int SDLK_KP_MEMCLEAR = SDLK_KP_MEMCLEAR();
     /**
      * {@snippet :
      * enum .SDLK_KP_MEMADD = 1073742035;
@@ -513,6 +637,8 @@ public class SDL2_1 {
     public static int SDLK_KP_MEMADD() {
         return (int)1073742035L;
     }
+    /** (int)1073742035L */
+    public static final int SDLK_KP_MEMADD = SDLK_KP_MEMADD();
     /**
      * {@snippet :
      * enum .SDLK_KP_MEMSUBTRACT = 1073742036;
@@ -521,6 +647,8 @@ public class SDL2_1 {
     public static int SDLK_KP_MEMSUBTRACT() {
         return (int)1073742036L;
     }
+    /** (int)1073742036L */
+    public static final int SDLK_KP_MEMSUBTRACT = SDLK_KP_MEMSUBTRACT();
     /**
      * {@snippet :
      * enum .SDLK_KP_MEMMULTIPLY = 1073742037;
@@ -529,6 +657,8 @@ public class SDL2_1 {
     public static int SDLK_KP_MEMMULTIPLY() {
         return (int)1073742037L;
     }
+    /** (int)1073742037L */
+    public static final int SDLK_KP_MEMMULTIPLY = SDLK_KP_MEMMULTIPLY();
     /**
      * {@snippet :
      * enum .SDLK_KP_MEMDIVIDE = 1073742038;
@@ -537,6 +667,8 @@ public class SDL2_1 {
     public static int SDLK_KP_MEMDIVIDE() {
         return (int)1073742038L;
     }
+    /** (int)1073742038L */
+    public static final int SDLK_KP_MEMDIVIDE = SDLK_KP_MEMDIVIDE();
     /**
      * {@snippet :
      * enum .SDLK_KP_PLUSMINUS = 1073742039;
@@ -545,6 +677,8 @@ public class SDL2_1 {
     public static int SDLK_KP_PLUSMINUS() {
         return (int)1073742039L;
     }
+    /** (int)1073742039L */
+    public static final int SDLK_KP_PLUSMINUS = SDLK_KP_PLUSMINUS();
     /**
      * {@snippet :
      * enum .SDLK_KP_CLEAR = 1073742040;
@@ -553,6 +687,8 @@ public class SDL2_1 {
     public static int SDLK_KP_CLEAR() {
         return (int)1073742040L;
     }
+    /** (int)1073742040L */
+    public static final int SDLK_KP_CLEAR = SDLK_KP_CLEAR();
     /**
      * {@snippet :
      * enum .SDLK_KP_CLEARENTRY = 1073742041;
@@ -561,6 +697,8 @@ public class SDL2_1 {
     public static int SDLK_KP_CLEARENTRY() {
         return (int)1073742041L;
     }
+    /** (int)1073742041L */
+    public static final int SDLK_KP_CLEARENTRY = SDLK_KP_CLEARENTRY();
     /**
      * {@snippet :
      * enum .SDLK_KP_BINARY = 1073742042;
@@ -569,6 +707,8 @@ public class SDL2_1 {
     public static int SDLK_KP_BINARY() {
         return (int)1073742042L;
     }
+    /** (int)1073742042L */
+    public static final int SDLK_KP_BINARY = SDLK_KP_BINARY();
     /**
      * {@snippet :
      * enum .SDLK_KP_OCTAL = 1073742043;
@@ -577,6 +717,8 @@ public class SDL2_1 {
     public static int SDLK_KP_OCTAL() {
         return (int)1073742043L;
     }
+    /** (int)1073742043L */
+    public static final int SDLK_KP_OCTAL = SDLK_KP_OCTAL();
     /**
      * {@snippet :
      * enum .SDLK_KP_DECIMAL = 1073742044;
@@ -585,6 +727,8 @@ public class SDL2_1 {
     public static int SDLK_KP_DECIMAL() {
         return (int)1073742044L;
     }
+    /** (int)1073742044L */
+    public static final int SDLK_KP_DECIMAL = SDLK_KP_DECIMAL();
     /**
      * {@snippet :
      * enum .SDLK_KP_HEXADECIMAL = 1073742045;
@@ -593,6 +737,8 @@ public class SDL2_1 {
     public static int SDLK_KP_HEXADECIMAL() {
         return (int)1073742045L;
     }
+    /** (int)1073742045L */
+    public static final int SDLK_KP_HEXADECIMAL = SDLK_KP_HEXADECIMAL();
     /**
      * {@snippet :
      * enum .SDLK_LCTRL = 1073742048;
@@ -601,6 +747,8 @@ public class SDL2_1 {
     public static int SDLK_LCTRL() {
         return (int)1073742048L;
     }
+    /** (int)1073742048L */
+    public static final int SDLK_LCTRL = SDLK_LCTRL();
     /**
      * {@snippet :
      * enum .SDLK_LSHIFT = 1073742049;
@@ -609,6 +757,8 @@ public class SDL2_1 {
     public static int SDLK_LSHIFT() {
         return (int)1073742049L;
     }
+    /** (int)1073742049L */
+    public static final int SDLK_LSHIFT = SDLK_LSHIFT();
     /**
      * {@snippet :
      * enum .SDLK_LALT = 1073742050;
@@ -617,6 +767,8 @@ public class SDL2_1 {
     public static int SDLK_LALT() {
         return (int)1073742050L;
     }
+    /** (int)1073742050L */
+    public static final int SDLK_LALT = SDLK_LALT();
     /**
      * {@snippet :
      * enum .SDLK_LGUI = 1073742051;
@@ -625,6 +777,8 @@ public class SDL2_1 {
     public static int SDLK_LGUI() {
         return (int)1073742051L;
     }
+    /** (int)1073742051L */
+    public static final int SDLK_LGUI = SDLK_LGUI();
     /**
      * {@snippet :
      * enum .SDLK_RCTRL = 1073742052;
@@ -633,6 +787,8 @@ public class SDL2_1 {
     public static int SDLK_RCTRL() {
         return (int)1073742052L;
     }
+    /** (int)1073742052L */
+    public static final int SDLK_RCTRL = SDLK_RCTRL();
     /**
      * {@snippet :
      * enum .SDLK_RSHIFT = 1073742053;
@@ -641,6 +797,8 @@ public class SDL2_1 {
     public static int SDLK_RSHIFT() {
         return (int)1073742053L;
     }
+    /** (int)1073742053L */
+    public static final int SDLK_RSHIFT = SDLK_RSHIFT();
     /**
      * {@snippet :
      * enum .SDLK_RALT = 1073742054;
@@ -649,6 +807,8 @@ public class SDL2_1 {
     public static int SDLK_RALT() {
         return (int)1073742054L;
     }
+    /** (int)1073742054L */
+    public static final int SDLK_RALT = SDLK_RALT();
     /**
      * {@snippet :
      * enum .SDLK_RGUI = 1073742055;
@@ -657,6 +817,8 @@ public class SDL2_1 {
     public static int SDLK_RGUI() {
         return (int)1073742055L;
     }
+    /** (int)1073742055L */
+    public static final int SDLK_RGUI = SDLK_RGUI();
     /**
      * {@snippet :
      * enum .SDLK_MODE = 1073742081;
@@ -665,6 +827,8 @@ public class SDL2_1 {
     public static int SDLK_MODE() {
         return (int)1073742081L;
     }
+    /** (int)1073742081L */
+    public static final int SDLK_MODE = SDLK_MODE();
     /**
      * {@snippet :
      * enum .SDLK_AUDIONEXT = 1073742082;
@@ -673,6 +837,8 @@ public class SDL2_1 {
     public static int SDLK_AUDIONEXT() {
         return (int)1073742082L;
     }
+    /** (int)1073742082L */
+    public static final int SDLK_AUDIONEXT = SDLK_AUDIONEXT();
     /**
      * {@snippet :
      * enum .SDLK_AUDIOPREV = 1073742083;
@@ -681,6 +847,8 @@ public class SDL2_1 {
     public static int SDLK_AUDIOPREV() {
         return (int)1073742083L;
     }
+    /** (int)1073742083L */
+    public static final int SDLK_AUDIOPREV = SDLK_AUDIOPREV();
     /**
      * {@snippet :
      * enum .SDLK_AUDIOSTOP = 1073742084;
@@ -689,6 +857,8 @@ public class SDL2_1 {
     public static int SDLK_AUDIOSTOP() {
         return (int)1073742084L;
     }
+    /** (int)1073742084L */
+    public static final int SDLK_AUDIOSTOP = SDLK_AUDIOSTOP();
     /**
      * {@snippet :
      * enum .SDLK_AUDIOPLAY = 1073742085;
@@ -697,6 +867,8 @@ public class SDL2_1 {
     public static int SDLK_AUDIOPLAY() {
         return (int)1073742085L;
     }
+    /** (int)1073742085L */
+    public static final int SDLK_AUDIOPLAY = SDLK_AUDIOPLAY();
     /**
      * {@snippet :
      * enum .SDLK_AUDIOMUTE = 1073742086;
@@ -705,6 +877,8 @@ public class SDL2_1 {
     public static int SDLK_AUDIOMUTE() {
         return (int)1073742086L;
     }
+    /** (int)1073742086L */
+    public static final int SDLK_AUDIOMUTE = SDLK_AUDIOMUTE();
     /**
      * {@snippet :
      * enum .SDLK_MEDIASELECT = 1073742087;
@@ -713,6 +887,8 @@ public class SDL2_1 {
     public static int SDLK_MEDIASELECT() {
         return (int)1073742087L;
     }
+    /** (int)1073742087L */
+    public static final int SDLK_MEDIASELECT = SDLK_MEDIASELECT();
     /**
      * {@snippet :
      * enum .SDLK_WWW = 1073742088;
@@ -721,6 +897,8 @@ public class SDL2_1 {
     public static int SDLK_WWW() {
         return (int)1073742088L;
     }
+    /** (int)1073742088L */
+    public static final int SDLK_WWW = SDLK_WWW();
     /**
      * {@snippet :
      * enum .SDLK_MAIL = 1073742089;
@@ -729,6 +907,8 @@ public class SDL2_1 {
     public static int SDLK_MAIL() {
         return (int)1073742089L;
     }
+    /** (int)1073742089L */
+    public static final int SDLK_MAIL = SDLK_MAIL();
     /**
      * {@snippet :
      * enum .SDLK_CALCULATOR = 1073742090;
@@ -737,6 +917,8 @@ public class SDL2_1 {
     public static int SDLK_CALCULATOR() {
         return (int)1073742090L;
     }
+    /** (int)1073742090L */
+    public static final int SDLK_CALCULATOR = SDLK_CALCULATOR();
     /**
      * {@snippet :
      * enum .SDLK_COMPUTER = 1073742091;
@@ -745,6 +927,8 @@ public class SDL2_1 {
     public static int SDLK_COMPUTER() {
         return (int)1073742091L;
     }
+    /** (int)1073742091L */
+    public static final int SDLK_COMPUTER = SDLK_COMPUTER();
     /**
      * {@snippet :
      * enum .SDLK_AC_SEARCH = 1073742092;
@@ -753,6 +937,8 @@ public class SDL2_1 {
     public static int SDLK_AC_SEARCH() {
         return (int)1073742092L;
     }
+    /** (int)1073742092L */
+    public static final int SDLK_AC_SEARCH = SDLK_AC_SEARCH();
     /**
      * {@snippet :
      * enum .SDLK_AC_HOME = 1073742093;
@@ -761,6 +947,8 @@ public class SDL2_1 {
     public static int SDLK_AC_HOME() {
         return (int)1073742093L;
     }
+    /** (int)1073742093L */
+    public static final int SDLK_AC_HOME = SDLK_AC_HOME();
     /**
      * {@snippet :
      * enum .SDLK_AC_BACK = 1073742094;
@@ -769,6 +957,8 @@ public class SDL2_1 {
     public static int SDLK_AC_BACK() {
         return (int)1073742094L;
     }
+    /** (int)1073742094L */
+    public static final int SDLK_AC_BACK = SDLK_AC_BACK();
     /**
      * {@snippet :
      * enum .SDLK_AC_FORWARD = 1073742095;
@@ -777,6 +967,8 @@ public class SDL2_1 {
     public static int SDLK_AC_FORWARD() {
         return (int)1073742095L;
     }
+    /** (int)1073742095L */
+    public static final int SDLK_AC_FORWARD = SDLK_AC_FORWARD();
     /**
      * {@snippet :
      * enum .SDLK_AC_STOP = 1073742096;
@@ -785,6 +977,8 @@ public class SDL2_1 {
     public static int SDLK_AC_STOP() {
         return (int)1073742096L;
     }
+    /** (int)1073742096L */
+    public static final int SDLK_AC_STOP = SDLK_AC_STOP();
     /**
      * {@snippet :
      * enum .SDLK_AC_REFRESH = 1073742097;
@@ -793,6 +987,8 @@ public class SDL2_1 {
     public static int SDLK_AC_REFRESH() {
         return (int)1073742097L;
     }
+    /** (int)1073742097L */
+    public static final int SDLK_AC_REFRESH = SDLK_AC_REFRESH();
     /**
      * {@snippet :
      * enum .SDLK_AC_BOOKMARKS = 1073742098;
@@ -801,6 +997,8 @@ public class SDL2_1 {
     public static int SDLK_AC_BOOKMARKS() {
         return (int)1073742098L;
     }
+    /** (int)1073742098L */
+    public static final int SDLK_AC_BOOKMARKS = SDLK_AC_BOOKMARKS();
     /**
      * {@snippet :
      * enum .SDLK_BRIGHTNESSDOWN = 1073742099;
@@ -809,6 +1007,8 @@ public class SDL2_1 {
     public static int SDLK_BRIGHTNESSDOWN() {
         return (int)1073742099L;
     }
+    /** (int)1073742099L */
+    public static final int SDLK_BRIGHTNESSDOWN = SDLK_BRIGHTNESSDOWN();
     /**
      * {@snippet :
      * enum .SDLK_BRIGHTNESSUP = 1073742100;
@@ -817,6 +1017,8 @@ public class SDL2_1 {
     public static int SDLK_BRIGHTNESSUP() {
         return (int)1073742100L;
     }
+    /** (int)1073742100L */
+    public static final int SDLK_BRIGHTNESSUP = SDLK_BRIGHTNESSUP();
     /**
      * {@snippet :
      * enum .SDLK_DISPLAYSWITCH = 1073742101;
@@ -825,6 +1027,8 @@ public class SDL2_1 {
     public static int SDLK_DISPLAYSWITCH() {
         return (int)1073742101L;
     }
+    /** (int)1073742101L */
+    public static final int SDLK_DISPLAYSWITCH = SDLK_DISPLAYSWITCH();
     /**
      * {@snippet :
      * enum .SDLK_KBDILLUMTOGGLE = 1073742102;
@@ -833,6 +1037,8 @@ public class SDL2_1 {
     public static int SDLK_KBDILLUMTOGGLE() {
         return (int)1073742102L;
     }
+    /** (int)1073742102L */
+    public static final int SDLK_KBDILLUMTOGGLE = SDLK_KBDILLUMTOGGLE();
     /**
      * {@snippet :
      * enum .SDLK_KBDILLUMDOWN = 1073742103;
@@ -841,6 +1047,8 @@ public class SDL2_1 {
     public static int SDLK_KBDILLUMDOWN() {
         return (int)1073742103L;
     }
+    /** (int)1073742103L */
+    public static final int SDLK_KBDILLUMDOWN = SDLK_KBDILLUMDOWN();
     /**
      * {@snippet :
      * enum .SDLK_KBDILLUMUP = 1073742104;
@@ -849,6 +1057,8 @@ public class SDL2_1 {
     public static int SDLK_KBDILLUMUP() {
         return (int)1073742104L;
     }
+    /** (int)1073742104L */
+    public static final int SDLK_KBDILLUMUP = SDLK_KBDILLUMUP();
     /**
      * {@snippet :
      * enum .SDLK_EJECT = 1073742105;
@@ -857,6 +1067,8 @@ public class SDL2_1 {
     public static int SDLK_EJECT() {
         return (int)1073742105L;
     }
+    /** (int)1073742105L */
+    public static final int SDLK_EJECT = SDLK_EJECT();
     /**
      * {@snippet :
      * enum .SDLK_SLEEP = 1073742106;
@@ -865,6 +1077,8 @@ public class SDL2_1 {
     public static int SDLK_SLEEP() {
         return (int)1073742106L;
     }
+    /** (int)1073742106L */
+    public static final int SDLK_SLEEP = SDLK_SLEEP();
     /**
      * {@snippet :
      * enum .SDLK_APP1 = 1073742107;
@@ -873,6 +1087,8 @@ public class SDL2_1 {
     public static int SDLK_APP1() {
         return (int)1073742107L;
     }
+    /** (int)1073742107L */
+    public static final int SDLK_APP1 = SDLK_APP1();
     /**
      * {@snippet :
      * enum .SDLK_APP2 = 1073742108;
@@ -881,6 +1097,8 @@ public class SDL2_1 {
     public static int SDLK_APP2() {
         return (int)1073742108L;
     }
+    /** (int)1073742108L */
+    public static final int SDLK_APP2 = SDLK_APP2();
     /**
      * {@snippet :
      * enum .SDLK_AUDIOREWIND = 1073742109;
@@ -889,6 +1107,8 @@ public class SDL2_1 {
     public static int SDLK_AUDIOREWIND() {
         return (int)1073742109L;
     }
+    /** (int)1073742109L */
+    public static final int SDLK_AUDIOREWIND = SDLK_AUDIOREWIND();
     /**
      * {@snippet :
      * enum .SDLK_AUDIOFASTFORWARD = 1073742110;
@@ -897,6 +1117,8 @@ public class SDL2_1 {
     public static int SDLK_AUDIOFASTFORWARD() {
         return (int)1073742110L;
     }
+    /** (int)1073742110L */
+    public static final int SDLK_AUDIOFASTFORWARD = SDLK_AUDIOFASTFORWARD();
     /**
      * {@snippet :
      * enum .SDLK_SOFTLEFT = 1073742111;
@@ -905,6 +1127,8 @@ public class SDL2_1 {
     public static int SDLK_SOFTLEFT() {
         return (int)1073742111L;
     }
+    /** (int)1073742111L */
+    public static final int SDLK_SOFTLEFT = SDLK_SOFTLEFT();
     /**
      * {@snippet :
      * enum .SDLK_SOFTRIGHT = 1073742112;
@@ -913,6 +1137,8 @@ public class SDL2_1 {
     public static int SDLK_SOFTRIGHT() {
         return (int)1073742112L;
     }
+    /** (int)1073742112L */
+    public static final int SDLK_SOFTRIGHT = SDLK_SOFTRIGHT();
     /**
      * {@snippet :
      * enum .SDLK_CALL = 1073742113;
@@ -921,6 +1147,8 @@ public class SDL2_1 {
     public static int SDLK_CALL() {
         return (int)1073742113L;
     }
+    /** (int)1073742113L */
+    public static final int SDLK_CALL = SDLK_CALL();
     /**
      * {@snippet :
      * enum .SDLK_ENDCALL = 1073742114;
@@ -929,6 +1157,8 @@ public class SDL2_1 {
     public static int SDLK_ENDCALL() {
         return (int)1073742114L;
     }
+    /** (int)1073742114L */
+    public static final int SDLK_ENDCALL = SDLK_ENDCALL();
     /**
      * {@snippet :
      * enum .KMOD_NONE = 0;
@@ -937,6 +1167,8 @@ public class SDL2_1 {
     public static int KMOD_NONE() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int KMOD_NONE = KMOD_NONE();
     /**
      * {@snippet :
      * enum .KMOD_LSHIFT = 1;
@@ -945,6 +1177,8 @@ public class SDL2_1 {
     public static int KMOD_LSHIFT() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int KMOD_LSHIFT = KMOD_LSHIFT();
     /**
      * {@snippet :
      * enum .KMOD_RSHIFT = 2;
@@ -953,6 +1187,8 @@ public class SDL2_1 {
     public static int KMOD_RSHIFT() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int KMOD_RSHIFT = KMOD_RSHIFT();
     /**
      * {@snippet :
      * enum .KMOD_LCTRL = 64;
@@ -961,6 +1197,8 @@ public class SDL2_1 {
     public static int KMOD_LCTRL() {
         return (int)64L;
     }
+    /** (int)64L */
+    public static final int KMOD_LCTRL = KMOD_LCTRL();
     /**
      * {@snippet :
      * enum .KMOD_RCTRL = 128;
@@ -969,6 +1207,8 @@ public class SDL2_1 {
     public static int KMOD_RCTRL() {
         return (int)128L;
     }
+    /** (int)128L */
+    public static final int KMOD_RCTRL = KMOD_RCTRL();
     /**
      * {@snippet :
      * enum .KMOD_LALT = 256;
@@ -977,6 +1217,8 @@ public class SDL2_1 {
     public static int KMOD_LALT() {
         return (int)256L;
     }
+    /** (int)256L */
+    public static final int KMOD_LALT = KMOD_LALT();
     /**
      * {@snippet :
      * enum .KMOD_RALT = 512;
@@ -985,6 +1227,8 @@ public class SDL2_1 {
     public static int KMOD_RALT() {
         return (int)512L;
     }
+    /** (int)512L */
+    public static final int KMOD_RALT = KMOD_RALT();
     /**
      * {@snippet :
      * enum .KMOD_LGUI = 1024;
@@ -993,6 +1237,8 @@ public class SDL2_1 {
     public static int KMOD_LGUI() {
         return (int)1024L;
     }
+    /** (int)1024L */
+    public static final int KMOD_LGUI = KMOD_LGUI();
     /**
      * {@snippet :
      * enum .KMOD_RGUI = 2048;
@@ -1001,6 +1247,8 @@ public class SDL2_1 {
     public static int KMOD_RGUI() {
         return (int)2048L;
     }
+    /** (int)2048L */
+    public static final int KMOD_RGUI = KMOD_RGUI();
     /**
      * {@snippet :
      * enum .KMOD_NUM = 4096;
@@ -1009,6 +1257,8 @@ public class SDL2_1 {
     public static int KMOD_NUM() {
         return (int)4096L;
     }
+    /** (int)4096L */
+    public static final int KMOD_NUM = KMOD_NUM();
     /**
      * {@snippet :
      * enum .KMOD_CAPS = 8192;
@@ -1017,6 +1267,8 @@ public class SDL2_1 {
     public static int KMOD_CAPS() {
         return (int)8192L;
     }
+    /** (int)8192L */
+    public static final int KMOD_CAPS = KMOD_CAPS();
     /**
      * {@snippet :
      * enum .KMOD_MODE = 16384;
@@ -1025,6 +1277,8 @@ public class SDL2_1 {
     public static int KMOD_MODE() {
         return (int)16384L;
     }
+    /** (int)16384L */
+    public static final int KMOD_MODE = KMOD_MODE();
     /**
      * {@snippet :
      * enum .KMOD_SCROLL = 32768;
@@ -1033,6 +1287,8 @@ public class SDL2_1 {
     public static int KMOD_SCROLL() {
         return (int)32768L;
     }
+    /** (int)32768L */
+    public static final int KMOD_SCROLL = KMOD_SCROLL();
     /**
      * {@snippet :
      * enum .KMOD_CTRL = 192;
@@ -1041,6 +1297,8 @@ public class SDL2_1 {
     public static int KMOD_CTRL() {
         return (int)192L;
     }
+    /** (int)192L */
+    public static final int KMOD_CTRL = KMOD_CTRL();
     /**
      * {@snippet :
      * enum .KMOD_SHIFT = 3;
@@ -1049,6 +1307,8 @@ public class SDL2_1 {
     public static int KMOD_SHIFT() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int KMOD_SHIFT = KMOD_SHIFT();
     /**
      * {@snippet :
      * enum .KMOD_ALT = 768;
@@ -1057,6 +1317,8 @@ public class SDL2_1 {
     public static int KMOD_ALT() {
         return (int)768L;
     }
+    /** (int)768L */
+    public static final int KMOD_ALT = KMOD_ALT();
     /**
      * {@snippet :
      * enum .KMOD_GUI = 3072;
@@ -1065,6 +1327,8 @@ public class SDL2_1 {
     public static int KMOD_GUI() {
         return (int)3072L;
     }
+    /** (int)3072L */
+    public static final int KMOD_GUI = KMOD_GUI();
     /**
      * {@snippet :
      * enum .KMOD_RESERVED = 32768;
@@ -1073,6 +1337,8 @@ public class SDL2_1 {
     public static int KMOD_RESERVED() {
         return (int)32768L;
     }
+    /** (int)32768L */
+    public static final int KMOD_RESERVED = KMOD_RESERVED();
     public static MethodHandle SDL_GetKeyboardFocus$MH() {
         return RuntimeHelper.requireNonNull(constants$84.const$5,"SDL_GetKeyboardFocus");
     }
@@ -1385,6 +1651,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_ARROW() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_SYSTEM_CURSOR_ARROW = SDL_SYSTEM_CURSOR_ARROW();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_IBEAM = 1;
@@ -1393,6 +1661,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_IBEAM() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_SYSTEM_CURSOR_IBEAM = SDL_SYSTEM_CURSOR_IBEAM();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_WAIT = 2;
@@ -1401,6 +1671,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_WAIT() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_SYSTEM_CURSOR_WAIT = SDL_SYSTEM_CURSOR_WAIT();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_CROSSHAIR = 3;
@@ -1409,6 +1681,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_CROSSHAIR() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_SYSTEM_CURSOR_CROSSHAIR = SDL_SYSTEM_CURSOR_CROSSHAIR();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_WAITARROW = 4;
@@ -1417,6 +1691,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_WAITARROW() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_SYSTEM_CURSOR_WAITARROW = SDL_SYSTEM_CURSOR_WAITARROW();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_SIZENWSE = 5;
@@ -1425,6 +1701,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_SIZENWSE() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_SYSTEM_CURSOR_SIZENWSE = SDL_SYSTEM_CURSOR_SIZENWSE();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_SIZENESW = 6;
@@ -1433,6 +1711,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_SIZENESW() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_SYSTEM_CURSOR_SIZENESW = SDL_SYSTEM_CURSOR_SIZENESW();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_SIZEWE = 7;
@@ -1441,6 +1721,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_SIZEWE() {
         return (int)7L;
     }
+    /** (int)7L */
+    public static final int SDL_SYSTEM_CURSOR_SIZEWE = SDL_SYSTEM_CURSOR_SIZEWE();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_SIZENS = 8;
@@ -1449,6 +1731,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_SIZENS() {
         return (int)8L;
     }
+    /** (int)8L */
+    public static final int SDL_SYSTEM_CURSOR_SIZENS = SDL_SYSTEM_CURSOR_SIZENS();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_SIZEALL = 9;
@@ -1457,6 +1741,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_SIZEALL() {
         return (int)9L;
     }
+    /** (int)9L */
+    public static final int SDL_SYSTEM_CURSOR_SIZEALL = SDL_SYSTEM_CURSOR_SIZEALL();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_NO = 10;
@@ -1465,6 +1751,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_NO() {
         return (int)10L;
     }
+    /** (int)10L */
+    public static final int SDL_SYSTEM_CURSOR_NO = SDL_SYSTEM_CURSOR_NO();
     /**
      * {@snippet :
      * enum .SDL_SYSTEM_CURSOR_HAND = 11;
@@ -1473,6 +1761,8 @@ public class SDL2_1 {
     public static int SDL_SYSTEM_CURSOR_HAND() {
         return (int)11L;
     }
+    /** (int)11L */
+    public static final int SDL_SYSTEM_CURSOR_HAND = SDL_SYSTEM_CURSOR_HAND();
     /**
      * {@snippet :
      * enum .SDL_NUM_SYSTEM_CURSORS = 12;
@@ -1481,6 +1771,8 @@ public class SDL2_1 {
     public static int SDL_NUM_SYSTEM_CURSORS() {
         return (int)12L;
     }
+    /** (int)12L */
+    public static final int SDL_NUM_SYSTEM_CURSORS = SDL_NUM_SYSTEM_CURSORS();
     /**
      * {@snippet :
      * enum .SDL_MOUSEWHEEL_NORMAL = 0;
@@ -1489,6 +1781,8 @@ public class SDL2_1 {
     public static int SDL_MOUSEWHEEL_NORMAL() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_MOUSEWHEEL_NORMAL = SDL_MOUSEWHEEL_NORMAL();
     /**
      * {@snippet :
      * enum .SDL_MOUSEWHEEL_FLIPPED = 1;
@@ -1497,6 +1791,8 @@ public class SDL2_1 {
     public static int SDL_MOUSEWHEEL_FLIPPED() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_MOUSEWHEEL_FLIPPED = SDL_MOUSEWHEEL_FLIPPED();
     public static MethodHandle SDL_GetMouseFocus$MH() {
         return RuntimeHelper.requireNonNull(constants$88.const$0,"SDL_GetMouseFocus");
     }
@@ -1815,6 +2111,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_UNKNOWN() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_JOYSTICK_TYPE_UNKNOWN = SDL_JOYSTICK_TYPE_UNKNOWN();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_GAMECONTROLLER = 1;
@@ -1823,6 +2121,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_GAMECONTROLLER() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_JOYSTICK_TYPE_GAMECONTROLLER = SDL_JOYSTICK_TYPE_GAMECONTROLLER();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_WHEEL = 2;
@@ -1831,6 +2131,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_WHEEL() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_JOYSTICK_TYPE_WHEEL = SDL_JOYSTICK_TYPE_WHEEL();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_ARCADE_STICK = 3;
@@ -1839,6 +2141,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_ARCADE_STICK() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_JOYSTICK_TYPE_ARCADE_STICK = SDL_JOYSTICK_TYPE_ARCADE_STICK();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_FLIGHT_STICK = 4;
@@ -1847,6 +2151,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_FLIGHT_STICK() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_JOYSTICK_TYPE_FLIGHT_STICK = SDL_JOYSTICK_TYPE_FLIGHT_STICK();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_DANCE_PAD = 5;
@@ -1855,6 +2161,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_DANCE_PAD() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_JOYSTICK_TYPE_DANCE_PAD = SDL_JOYSTICK_TYPE_DANCE_PAD();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_GUITAR = 6;
@@ -1863,6 +2171,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_GUITAR() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_JOYSTICK_TYPE_GUITAR = SDL_JOYSTICK_TYPE_GUITAR();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_DRUM_KIT = 7;
@@ -1871,6 +2181,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_DRUM_KIT() {
         return (int)7L;
     }
+    /** (int)7L */
+    public static final int SDL_JOYSTICK_TYPE_DRUM_KIT = SDL_JOYSTICK_TYPE_DRUM_KIT();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_ARCADE_PAD = 8;
@@ -1879,6 +2191,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_ARCADE_PAD() {
         return (int)8L;
     }
+    /** (int)8L */
+    public static final int SDL_JOYSTICK_TYPE_ARCADE_PAD = SDL_JOYSTICK_TYPE_ARCADE_PAD();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_TYPE_THROTTLE = 9;
@@ -1887,6 +2201,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_TYPE_THROTTLE() {
         return (int)9L;
     }
+    /** (int)9L */
+    public static final int SDL_JOYSTICK_TYPE_THROTTLE = SDL_JOYSTICK_TYPE_THROTTLE();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_POWER_UNKNOWN = -1;
@@ -1895,6 +2211,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_POWER_UNKNOWN() {
         return (int)-1L;
     }
+    /** (int)-1L */
+    public static final int SDL_JOYSTICK_POWER_UNKNOWN = SDL_JOYSTICK_POWER_UNKNOWN();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_POWER_EMPTY = 0;
@@ -1903,6 +2221,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_POWER_EMPTY() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_JOYSTICK_POWER_EMPTY = SDL_JOYSTICK_POWER_EMPTY();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_POWER_LOW = 1;
@@ -1911,6 +2231,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_POWER_LOW() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_JOYSTICK_POWER_LOW = SDL_JOYSTICK_POWER_LOW();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_POWER_MEDIUM = 2;
@@ -1919,6 +2241,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_POWER_MEDIUM() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_JOYSTICK_POWER_MEDIUM = SDL_JOYSTICK_POWER_MEDIUM();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_POWER_FULL = 3;
@@ -1927,6 +2251,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_POWER_FULL() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_JOYSTICK_POWER_FULL = SDL_JOYSTICK_POWER_FULL();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_POWER_WIRED = 4;
@@ -1935,6 +2261,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_POWER_WIRED() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_JOYSTICK_POWER_WIRED = SDL_JOYSTICK_POWER_WIRED();
     /**
      * {@snippet :
      * enum .SDL_JOYSTICK_POWER_MAX = 5;
@@ -1943,6 +2271,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_POWER_MAX() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_JOYSTICK_POWER_MAX = SDL_JOYSTICK_POWER_MAX();
     public static MethodHandle SDL_LockJoysticks$MH() {
         return RuntimeHelper.requireNonNull(constants$91.const$5,"SDL_LockJoysticks");
     }
@@ -2885,6 +3215,8 @@ public class SDL2_1 {
     public static int SDL_SENSOR_INVALID() {
         return (int)-1L;
     }
+    /** (int)-1L */
+    public static final int SDL_SENSOR_INVALID = SDL_SENSOR_INVALID();
     /**
      * {@snippet :
      * enum .SDL_SENSOR_UNKNOWN = 0;
@@ -2893,6 +3225,8 @@ public class SDL2_1 {
     public static int SDL_SENSOR_UNKNOWN() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_SENSOR_UNKNOWN = SDL_SENSOR_UNKNOWN();
     /**
      * {@snippet :
      * enum .SDL_SENSOR_ACCEL = 1;
@@ -2901,6 +3235,8 @@ public class SDL2_1 {
     public static int SDL_SENSOR_ACCEL() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_SENSOR_ACCEL = SDL_SENSOR_ACCEL();
     /**
      * {@snippet :
      * enum .SDL_SENSOR_GYRO = 2;
@@ -2909,6 +3245,8 @@ public class SDL2_1 {
     public static int SDL_SENSOR_GYRO() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_SENSOR_GYRO = SDL_SENSOR_GYRO();
     /**
      * {@snippet :
      * enum .SDL_SENSOR_ACCEL_L = 3;
@@ -2917,6 +3255,8 @@ public class SDL2_1 {
     public static int SDL_SENSOR_ACCEL_L() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_SENSOR_ACCEL_L = SDL_SENSOR_ACCEL_L();
     /**
      * {@snippet :
      * enum .SDL_SENSOR_GYRO_L = 4;
@@ -2925,6 +3265,8 @@ public class SDL2_1 {
     public static int SDL_SENSOR_GYRO_L() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_SENSOR_GYRO_L = SDL_SENSOR_GYRO_L();
     /**
      * {@snippet :
      * enum .SDL_SENSOR_ACCEL_R = 5;
@@ -2933,6 +3275,8 @@ public class SDL2_1 {
     public static int SDL_SENSOR_ACCEL_R() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_SENSOR_ACCEL_R = SDL_SENSOR_ACCEL_R();
     /**
      * {@snippet :
      * enum .SDL_SENSOR_GYRO_R = 6;
@@ -2941,6 +3285,8 @@ public class SDL2_1 {
     public static int SDL_SENSOR_GYRO_R() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_SENSOR_GYRO_R = SDL_SENSOR_GYRO_R();
     public static MethodHandle SDL_LockSensors$MH() {
         return RuntimeHelper.requireNonNull(constants$108.const$0,"SDL_LockSensors");
     }
@@ -3221,6 +3567,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_UNKNOWN() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_CONTROLLER_TYPE_UNKNOWN = SDL_CONTROLLER_TYPE_UNKNOWN();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_XBOX360 = 1;
@@ -3229,6 +3577,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_XBOX360() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_CONTROLLER_TYPE_XBOX360 = SDL_CONTROLLER_TYPE_XBOX360();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_XBOXONE = 2;
@@ -3237,6 +3587,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_XBOXONE() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_CONTROLLER_TYPE_XBOXONE = SDL_CONTROLLER_TYPE_XBOXONE();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_PS3 = 3;
@@ -3245,6 +3597,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_PS3() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_CONTROLLER_TYPE_PS3 = SDL_CONTROLLER_TYPE_PS3();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_PS4 = 4;
@@ -3253,6 +3607,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_PS4() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_CONTROLLER_TYPE_PS4 = SDL_CONTROLLER_TYPE_PS4();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_PRO = 5;
@@ -3261,6 +3617,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_PRO() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_PRO = SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_PRO();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_VIRTUAL = 6;
@@ -3269,6 +3627,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_VIRTUAL() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_CONTROLLER_TYPE_VIRTUAL = SDL_CONTROLLER_TYPE_VIRTUAL();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_PS5 = 7;
@@ -3277,6 +3637,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_PS5() {
         return (int)7L;
     }
+    /** (int)7L */
+    public static final int SDL_CONTROLLER_TYPE_PS5 = SDL_CONTROLLER_TYPE_PS5();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_AMAZON_LUNA = 8;
@@ -3285,6 +3647,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_AMAZON_LUNA() {
         return (int)8L;
     }
+    /** (int)8L */
+    public static final int SDL_CONTROLLER_TYPE_AMAZON_LUNA = SDL_CONTROLLER_TYPE_AMAZON_LUNA();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_GOOGLE_STADIA = 9;
@@ -3293,6 +3657,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_GOOGLE_STADIA() {
         return (int)9L;
     }
+    /** (int)9L */
+    public static final int SDL_CONTROLLER_TYPE_GOOGLE_STADIA = SDL_CONTROLLER_TYPE_GOOGLE_STADIA();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_NVIDIA_SHIELD = 10;
@@ -3301,6 +3667,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_NVIDIA_SHIELD() {
         return (int)10L;
     }
+    /** (int)10L */
+    public static final int SDL_CONTROLLER_TYPE_NVIDIA_SHIELD = SDL_CONTROLLER_TYPE_NVIDIA_SHIELD();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_LEFT = 11;
@@ -3309,6 +3677,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_LEFT() {
         return (int)11L;
     }
+    /** (int)11L */
+    public static final int SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_LEFT = SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_LEFT();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_RIGHT = 12;
@@ -3317,6 +3687,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_RIGHT() {
         return (int)12L;
     }
+    /** (int)12L */
+    public static final int SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_RIGHT = SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_RIGHT();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_PAIR = 13;
@@ -3325,6 +3697,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_PAIR() {
         return (int)13L;
     }
+    /** (int)13L */
+    public static final int SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_PAIR = SDL_CONTROLLER_TYPE_NINTENDO_SWITCH_JOYCON_PAIR();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BINDTYPE_NONE = 0;
@@ -3333,6 +3707,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BINDTYPE_NONE() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_CONTROLLER_BINDTYPE_NONE = SDL_CONTROLLER_BINDTYPE_NONE();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BINDTYPE_BUTTON = 1;
@@ -3341,6 +3717,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BINDTYPE_BUTTON() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_CONTROLLER_BINDTYPE_BUTTON = SDL_CONTROLLER_BINDTYPE_BUTTON();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BINDTYPE_AXIS = 2;
@@ -3349,6 +3727,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BINDTYPE_AXIS() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_CONTROLLER_BINDTYPE_AXIS = SDL_CONTROLLER_BINDTYPE_AXIS();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BINDTYPE_HAT = 3;
@@ -3357,6 +3737,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BINDTYPE_HAT() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_CONTROLLER_BINDTYPE_HAT = SDL_CONTROLLER_BINDTYPE_HAT();
     public static MethodHandle SDL_GameControllerAddMappingsFromRW$MH() {
         return RuntimeHelper.requireNonNull(constants$112.const$1,"SDL_GameControllerAddMappingsFromRW");
     }
@@ -3813,6 +4195,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_AXIS_INVALID() {
         return (int)-1L;
     }
+    /** (int)-1L */
+    public static final int SDL_CONTROLLER_AXIS_INVALID = SDL_CONTROLLER_AXIS_INVALID();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_AXIS_LEFTX = 0;
@@ -3821,6 +4205,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_AXIS_LEFTX() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_CONTROLLER_AXIS_LEFTX = SDL_CONTROLLER_AXIS_LEFTX();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_AXIS_LEFTY = 1;
@@ -3829,6 +4215,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_AXIS_LEFTY() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_CONTROLLER_AXIS_LEFTY = SDL_CONTROLLER_AXIS_LEFTY();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_AXIS_RIGHTX = 2;
@@ -3837,6 +4225,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_AXIS_RIGHTX() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_CONTROLLER_AXIS_RIGHTX = SDL_CONTROLLER_AXIS_RIGHTX();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_AXIS_RIGHTY = 3;
@@ -3845,6 +4235,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_AXIS_RIGHTY() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_CONTROLLER_AXIS_RIGHTY = SDL_CONTROLLER_AXIS_RIGHTY();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_AXIS_TRIGGERLEFT = 4;
@@ -3853,6 +4245,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_AXIS_TRIGGERLEFT() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_CONTROLLER_AXIS_TRIGGERLEFT = SDL_CONTROLLER_AXIS_TRIGGERLEFT();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_AXIS_TRIGGERRIGHT = 5;
@@ -3861,6 +4255,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_AXIS_TRIGGERRIGHT() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_CONTROLLER_AXIS_TRIGGERRIGHT = SDL_CONTROLLER_AXIS_TRIGGERRIGHT();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_AXIS_MAX = 6;
@@ -3869,6 +4265,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_AXIS_MAX() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_CONTROLLER_AXIS_MAX = SDL_CONTROLLER_AXIS_MAX();
     public static MethodHandle SDL_GameControllerGetAxisFromString$MH() {
         return RuntimeHelper.requireNonNull(constants$116.const$5,"SDL_GameControllerGetAxisFromString");
     }
@@ -3957,6 +4355,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_INVALID() {
         return (int)-1L;
     }
+    /** (int)-1L */
+    public static final int SDL_CONTROLLER_BUTTON_INVALID = SDL_CONTROLLER_BUTTON_INVALID();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_A = 0;
@@ -3965,6 +4365,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_A() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_CONTROLLER_BUTTON_A = SDL_CONTROLLER_BUTTON_A();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_B = 1;
@@ -3973,6 +4375,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_B() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_CONTROLLER_BUTTON_B = SDL_CONTROLLER_BUTTON_B();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_X = 2;
@@ -3981,6 +4385,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_X() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_CONTROLLER_BUTTON_X = SDL_CONTROLLER_BUTTON_X();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_Y = 3;
@@ -3989,6 +4395,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_Y() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_CONTROLLER_BUTTON_Y = SDL_CONTROLLER_BUTTON_Y();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_BACK = 4;
@@ -3997,6 +4405,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_BACK() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_CONTROLLER_BUTTON_BACK = SDL_CONTROLLER_BUTTON_BACK();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_GUIDE = 5;
@@ -4005,6 +4415,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_GUIDE() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_CONTROLLER_BUTTON_GUIDE = SDL_CONTROLLER_BUTTON_GUIDE();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_START = 6;
@@ -4013,6 +4425,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_START() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_CONTROLLER_BUTTON_START = SDL_CONTROLLER_BUTTON_START();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_LEFTSTICK = 7;
@@ -4021,6 +4435,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_LEFTSTICK() {
         return (int)7L;
     }
+    /** (int)7L */
+    public static final int SDL_CONTROLLER_BUTTON_LEFTSTICK = SDL_CONTROLLER_BUTTON_LEFTSTICK();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_RIGHTSTICK = 8;
@@ -4029,6 +4445,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_RIGHTSTICK() {
         return (int)8L;
     }
+    /** (int)8L */
+    public static final int SDL_CONTROLLER_BUTTON_RIGHTSTICK = SDL_CONTROLLER_BUTTON_RIGHTSTICK();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_LEFTSHOULDER = 9;
@@ -4037,6 +4455,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_LEFTSHOULDER() {
         return (int)9L;
     }
+    /** (int)9L */
+    public static final int SDL_CONTROLLER_BUTTON_LEFTSHOULDER = SDL_CONTROLLER_BUTTON_LEFTSHOULDER();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_RIGHTSHOULDER = 10;
@@ -4045,6 +4465,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_RIGHTSHOULDER() {
         return (int)10L;
     }
+    /** (int)10L */
+    public static final int SDL_CONTROLLER_BUTTON_RIGHTSHOULDER = SDL_CONTROLLER_BUTTON_RIGHTSHOULDER();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_DPAD_UP = 11;
@@ -4053,6 +4475,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_DPAD_UP() {
         return (int)11L;
     }
+    /** (int)11L */
+    public static final int SDL_CONTROLLER_BUTTON_DPAD_UP = SDL_CONTROLLER_BUTTON_DPAD_UP();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_DPAD_DOWN = 12;
@@ -4061,6 +4485,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_DPAD_DOWN() {
         return (int)12L;
     }
+    /** (int)12L */
+    public static final int SDL_CONTROLLER_BUTTON_DPAD_DOWN = SDL_CONTROLLER_BUTTON_DPAD_DOWN();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_DPAD_LEFT = 13;
@@ -4069,6 +4495,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_DPAD_LEFT() {
         return (int)13L;
     }
+    /** (int)13L */
+    public static final int SDL_CONTROLLER_BUTTON_DPAD_LEFT = SDL_CONTROLLER_BUTTON_DPAD_LEFT();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_DPAD_RIGHT = 14;
@@ -4077,6 +4505,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_DPAD_RIGHT() {
         return (int)14L;
     }
+    /** (int)14L */
+    public static final int SDL_CONTROLLER_BUTTON_DPAD_RIGHT = SDL_CONTROLLER_BUTTON_DPAD_RIGHT();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_MISC1 = 15;
@@ -4085,6 +4515,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_MISC1() {
         return (int)15L;
     }
+    /** (int)15L */
+    public static final int SDL_CONTROLLER_BUTTON_MISC1 = SDL_CONTROLLER_BUTTON_MISC1();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_PADDLE1 = 16;
@@ -4093,6 +4525,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_PADDLE1() {
         return (int)16L;
     }
+    /** (int)16L */
+    public static final int SDL_CONTROLLER_BUTTON_PADDLE1 = SDL_CONTROLLER_BUTTON_PADDLE1();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_PADDLE2 = 17;
@@ -4101,6 +4535,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_PADDLE2() {
         return (int)17L;
     }
+    /** (int)17L */
+    public static final int SDL_CONTROLLER_BUTTON_PADDLE2 = SDL_CONTROLLER_BUTTON_PADDLE2();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_PADDLE3 = 18;
@@ -4109,6 +4545,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_PADDLE3() {
         return (int)18L;
     }
+    /** (int)18L */
+    public static final int SDL_CONTROLLER_BUTTON_PADDLE3 = SDL_CONTROLLER_BUTTON_PADDLE3();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_PADDLE4 = 19;
@@ -4117,6 +4555,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_PADDLE4() {
         return (int)19L;
     }
+    /** (int)19L */
+    public static final int SDL_CONTROLLER_BUTTON_PADDLE4 = SDL_CONTROLLER_BUTTON_PADDLE4();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_TOUCHPAD = 20;
@@ -4125,6 +4565,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_TOUCHPAD() {
         return (int)20L;
     }
+    /** (int)20L */
+    public static final int SDL_CONTROLLER_BUTTON_TOUCHPAD = SDL_CONTROLLER_BUTTON_TOUCHPAD();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLER_BUTTON_MAX = 21;
@@ -4133,6 +4575,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLER_BUTTON_MAX() {
         return (int)21L;
     }
+    /** (int)21L */
+    public static final int SDL_CONTROLLER_BUTTON_MAX = SDL_CONTROLLER_BUTTON_MAX();
     public static MethodHandle SDL_GameControllerGetButtonFromString$MH() {
         return RuntimeHelper.requireNonNull(constants$117.const$5,"SDL_GameControllerGetButtonFromString");
     }
@@ -4537,6 +4981,8 @@ public class SDL2_1 {
     public static int SDL_TOUCH_DEVICE_INVALID() {
         return (int)-1L;
     }
+    /** (int)-1L */
+    public static final int SDL_TOUCH_DEVICE_INVALID = SDL_TOUCH_DEVICE_INVALID();
     /**
      * {@snippet :
      * enum .SDL_TOUCH_DEVICE_DIRECT = 0;
@@ -4545,6 +4991,8 @@ public class SDL2_1 {
     public static int SDL_TOUCH_DEVICE_DIRECT() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_TOUCH_DEVICE_DIRECT = SDL_TOUCH_DEVICE_DIRECT();
     /**
      * {@snippet :
      * enum .SDL_TOUCH_DEVICE_INDIRECT_ABSOLUTE = 1;
@@ -4553,6 +5001,8 @@ public class SDL2_1 {
     public static int SDL_TOUCH_DEVICE_INDIRECT_ABSOLUTE() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_TOUCH_DEVICE_INDIRECT_ABSOLUTE = SDL_TOUCH_DEVICE_INDIRECT_ABSOLUTE();
     /**
      * {@snippet :
      * enum .SDL_TOUCH_DEVICE_INDIRECT_RELATIVE = 2;
@@ -4561,6 +5011,8 @@ public class SDL2_1 {
     public static int SDL_TOUCH_DEVICE_INDIRECT_RELATIVE() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_TOUCH_DEVICE_INDIRECT_RELATIVE = SDL_TOUCH_DEVICE_INDIRECT_RELATIVE();
     public static MethodHandle SDL_GetNumTouchDevices$MH() {
         return RuntimeHelper.requireNonNull(constants$123.const$0,"SDL_GetNumTouchDevices");
     }
@@ -4735,6 +5187,8 @@ public class SDL2_1 {
     public static int SDL_FIRSTEVENT() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_FIRSTEVENT = SDL_FIRSTEVENT();
     /**
      * {@snippet :
      * enum .SDL_QUIT = 256;
@@ -4743,6 +5197,8 @@ public class SDL2_1 {
     public static int SDL_QUIT() {
         return (int)256L;
     }
+    /** (int)256L */
+    public static final int SDL_QUIT = SDL_QUIT();
     /**
      * {@snippet :
      * enum .SDL_APP_TERMINATING = 257;
@@ -4751,6 +5207,8 @@ public class SDL2_1 {
     public static int SDL_APP_TERMINATING() {
         return (int)257L;
     }
+    /** (int)257L */
+    public static final int SDL_APP_TERMINATING = SDL_APP_TERMINATING();
     /**
      * {@snippet :
      * enum .SDL_APP_LOWMEMORY = 258;
@@ -4759,6 +5217,8 @@ public class SDL2_1 {
     public static int SDL_APP_LOWMEMORY() {
         return (int)258L;
     }
+    /** (int)258L */
+    public static final int SDL_APP_LOWMEMORY = SDL_APP_LOWMEMORY();
     /**
      * {@snippet :
      * enum .SDL_APP_WILLENTERBACKGROUND = 259;
@@ -4767,6 +5227,8 @@ public class SDL2_1 {
     public static int SDL_APP_WILLENTERBACKGROUND() {
         return (int)259L;
     }
+    /** (int)259L */
+    public static final int SDL_APP_WILLENTERBACKGROUND = SDL_APP_WILLENTERBACKGROUND();
     /**
      * {@snippet :
      * enum .SDL_APP_DIDENTERBACKGROUND = 260;
@@ -4775,6 +5237,8 @@ public class SDL2_1 {
     public static int SDL_APP_DIDENTERBACKGROUND() {
         return (int)260L;
     }
+    /** (int)260L */
+    public static final int SDL_APP_DIDENTERBACKGROUND = SDL_APP_DIDENTERBACKGROUND();
     /**
      * {@snippet :
      * enum .SDL_APP_WILLENTERFOREGROUND = 261;
@@ -4783,6 +5247,8 @@ public class SDL2_1 {
     public static int SDL_APP_WILLENTERFOREGROUND() {
         return (int)261L;
     }
+    /** (int)261L */
+    public static final int SDL_APP_WILLENTERFOREGROUND = SDL_APP_WILLENTERFOREGROUND();
     /**
      * {@snippet :
      * enum .SDL_APP_DIDENTERFOREGROUND = 262;
@@ -4791,6 +5257,8 @@ public class SDL2_1 {
     public static int SDL_APP_DIDENTERFOREGROUND() {
         return (int)262L;
     }
+    /** (int)262L */
+    public static final int SDL_APP_DIDENTERFOREGROUND = SDL_APP_DIDENTERFOREGROUND();
     /**
      * {@snippet :
      * enum .SDL_LOCALECHANGED = 263;
@@ -4799,6 +5267,8 @@ public class SDL2_1 {
     public static int SDL_LOCALECHANGED() {
         return (int)263L;
     }
+    /** (int)263L */
+    public static final int SDL_LOCALECHANGED = SDL_LOCALECHANGED();
     /**
      * {@snippet :
      * enum .SDL_DISPLAYEVENT = 336;
@@ -4807,6 +5277,8 @@ public class SDL2_1 {
     public static int SDL_DISPLAYEVENT() {
         return (int)336L;
     }
+    /** (int)336L */
+    public static final int SDL_DISPLAYEVENT = SDL_DISPLAYEVENT();
     /**
      * {@snippet :
      * enum .SDL_WINDOWEVENT = 512;
@@ -4815,6 +5287,8 @@ public class SDL2_1 {
     public static int SDL_WINDOWEVENT() {
         return (int)512L;
     }
+    /** (int)512L */
+    public static final int SDL_WINDOWEVENT = SDL_WINDOWEVENT();
     /**
      * {@snippet :
      * enum .SDL_SYSWMEVENT = 513;
@@ -4823,6 +5297,8 @@ public class SDL2_1 {
     public static int SDL_SYSWMEVENT() {
         return (int)513L;
     }
+    /** (int)513L */
+    public static final int SDL_SYSWMEVENT = SDL_SYSWMEVENT();
     /**
      * {@snippet :
      * enum .SDL_KEYDOWN = 768;
@@ -4831,6 +5307,8 @@ public class SDL2_1 {
     public static int SDL_KEYDOWN() {
         return (int)768L;
     }
+    /** (int)768L */
+    public static final int SDL_KEYDOWN = SDL_KEYDOWN();
     /**
      * {@snippet :
      * enum .SDL_KEYUP = 769;
@@ -4839,6 +5317,8 @@ public class SDL2_1 {
     public static int SDL_KEYUP() {
         return (int)769L;
     }
+    /** (int)769L */
+    public static final int SDL_KEYUP = SDL_KEYUP();
     /**
      * {@snippet :
      * enum .SDL_TEXTEDITING = 770;
@@ -4847,6 +5327,8 @@ public class SDL2_1 {
     public static int SDL_TEXTEDITING() {
         return (int)770L;
     }
+    /** (int)770L */
+    public static final int SDL_TEXTEDITING = SDL_TEXTEDITING();
     /**
      * {@snippet :
      * enum .SDL_TEXTINPUT = 771;
@@ -4855,6 +5337,8 @@ public class SDL2_1 {
     public static int SDL_TEXTINPUT() {
         return (int)771L;
     }
+    /** (int)771L */
+    public static final int SDL_TEXTINPUT = SDL_TEXTINPUT();
     /**
      * {@snippet :
      * enum .SDL_KEYMAPCHANGED = 772;
@@ -4863,6 +5347,8 @@ public class SDL2_1 {
     public static int SDL_KEYMAPCHANGED() {
         return (int)772L;
     }
+    /** (int)772L */
+    public static final int SDL_KEYMAPCHANGED = SDL_KEYMAPCHANGED();
     /**
      * {@snippet :
      * enum .SDL_TEXTEDITING_EXT = 773;
@@ -4871,6 +5357,8 @@ public class SDL2_1 {
     public static int SDL_TEXTEDITING_EXT() {
         return (int)773L;
     }
+    /** (int)773L */
+    public static final int SDL_TEXTEDITING_EXT = SDL_TEXTEDITING_EXT();
     /**
      * {@snippet :
      * enum .SDL_MOUSEMOTION = 1024;
@@ -4879,6 +5367,8 @@ public class SDL2_1 {
     public static int SDL_MOUSEMOTION() {
         return (int)1024L;
     }
+    /** (int)1024L */
+    public static final int SDL_MOUSEMOTION = SDL_MOUSEMOTION();
     /**
      * {@snippet :
      * enum .SDL_MOUSEBUTTONDOWN = 1025;
@@ -4887,6 +5377,8 @@ public class SDL2_1 {
     public static int SDL_MOUSEBUTTONDOWN() {
         return (int)1025L;
     }
+    /** (int)1025L */
+    public static final int SDL_MOUSEBUTTONDOWN = SDL_MOUSEBUTTONDOWN();
     /**
      * {@snippet :
      * enum .SDL_MOUSEBUTTONUP = 1026;
@@ -4895,6 +5387,8 @@ public class SDL2_1 {
     public static int SDL_MOUSEBUTTONUP() {
         return (int)1026L;
     }
+    /** (int)1026L */
+    public static final int SDL_MOUSEBUTTONUP = SDL_MOUSEBUTTONUP();
     /**
      * {@snippet :
      * enum .SDL_MOUSEWHEEL = 1027;
@@ -4903,6 +5397,8 @@ public class SDL2_1 {
     public static int SDL_MOUSEWHEEL() {
         return (int)1027L;
     }
+    /** (int)1027L */
+    public static final int SDL_MOUSEWHEEL = SDL_MOUSEWHEEL();
     /**
      * {@snippet :
      * enum .SDL_JOYAXISMOTION = 1536;
@@ -4911,6 +5407,8 @@ public class SDL2_1 {
     public static int SDL_JOYAXISMOTION() {
         return (int)1536L;
     }
+    /** (int)1536L */
+    public static final int SDL_JOYAXISMOTION = SDL_JOYAXISMOTION();
     /**
      * {@snippet :
      * enum .SDL_JOYBALLMOTION = 1537;
@@ -4919,6 +5417,8 @@ public class SDL2_1 {
     public static int SDL_JOYBALLMOTION() {
         return (int)1537L;
     }
+    /** (int)1537L */
+    public static final int SDL_JOYBALLMOTION = SDL_JOYBALLMOTION();
     /**
      * {@snippet :
      * enum .SDL_JOYHATMOTION = 1538;
@@ -4927,6 +5427,8 @@ public class SDL2_1 {
     public static int SDL_JOYHATMOTION() {
         return (int)1538L;
     }
+    /** (int)1538L */
+    public static final int SDL_JOYHATMOTION = SDL_JOYHATMOTION();
     /**
      * {@snippet :
      * enum .SDL_JOYBUTTONDOWN = 1539;
@@ -4935,6 +5437,8 @@ public class SDL2_1 {
     public static int SDL_JOYBUTTONDOWN() {
         return (int)1539L;
     }
+    /** (int)1539L */
+    public static final int SDL_JOYBUTTONDOWN = SDL_JOYBUTTONDOWN();
     /**
      * {@snippet :
      * enum .SDL_JOYBUTTONUP = 1540;
@@ -4943,6 +5447,8 @@ public class SDL2_1 {
     public static int SDL_JOYBUTTONUP() {
         return (int)1540L;
     }
+    /** (int)1540L */
+    public static final int SDL_JOYBUTTONUP = SDL_JOYBUTTONUP();
     /**
      * {@snippet :
      * enum .SDL_JOYDEVICEADDED = 1541;
@@ -4951,6 +5457,8 @@ public class SDL2_1 {
     public static int SDL_JOYDEVICEADDED() {
         return (int)1541L;
     }
+    /** (int)1541L */
+    public static final int SDL_JOYDEVICEADDED = SDL_JOYDEVICEADDED();
     /**
      * {@snippet :
      * enum .SDL_JOYDEVICEREMOVED = 1542;
@@ -4959,6 +5467,8 @@ public class SDL2_1 {
     public static int SDL_JOYDEVICEREMOVED() {
         return (int)1542L;
     }
+    /** (int)1542L */
+    public static final int SDL_JOYDEVICEREMOVED = SDL_JOYDEVICEREMOVED();
     /**
      * {@snippet :
      * enum .SDL_JOYBATTERYUPDATED = 1543;
@@ -4967,6 +5477,8 @@ public class SDL2_1 {
     public static int SDL_JOYBATTERYUPDATED() {
         return (int)1543L;
     }
+    /** (int)1543L */
+    public static final int SDL_JOYBATTERYUPDATED = SDL_JOYBATTERYUPDATED();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERAXISMOTION = 1616;
@@ -4975,6 +5487,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERAXISMOTION() {
         return (int)1616L;
     }
+    /** (int)1616L */
+    public static final int SDL_CONTROLLERAXISMOTION = SDL_CONTROLLERAXISMOTION();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERBUTTONDOWN = 1617;
@@ -4983,6 +5497,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERBUTTONDOWN() {
         return (int)1617L;
     }
+    /** (int)1617L */
+    public static final int SDL_CONTROLLERBUTTONDOWN = SDL_CONTROLLERBUTTONDOWN();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERBUTTONUP = 1618;
@@ -4991,6 +5507,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERBUTTONUP() {
         return (int)1618L;
     }
+    /** (int)1618L */
+    public static final int SDL_CONTROLLERBUTTONUP = SDL_CONTROLLERBUTTONUP();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERDEVICEADDED = 1619;
@@ -4999,6 +5517,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERDEVICEADDED() {
         return (int)1619L;
     }
+    /** (int)1619L */
+    public static final int SDL_CONTROLLERDEVICEADDED = SDL_CONTROLLERDEVICEADDED();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERDEVICEREMOVED = 1620;
@@ -5007,6 +5527,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERDEVICEREMOVED() {
         return (int)1620L;
     }
+    /** (int)1620L */
+    public static final int SDL_CONTROLLERDEVICEREMOVED = SDL_CONTROLLERDEVICEREMOVED();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERDEVICEREMAPPED = 1621;
@@ -5015,6 +5537,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERDEVICEREMAPPED() {
         return (int)1621L;
     }
+    /** (int)1621L */
+    public static final int SDL_CONTROLLERDEVICEREMAPPED = SDL_CONTROLLERDEVICEREMAPPED();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERTOUCHPADDOWN = 1622;
@@ -5023,6 +5547,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERTOUCHPADDOWN() {
         return (int)1622L;
     }
+    /** (int)1622L */
+    public static final int SDL_CONTROLLERTOUCHPADDOWN = SDL_CONTROLLERTOUCHPADDOWN();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERTOUCHPADMOTION = 1623;
@@ -5031,6 +5557,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERTOUCHPADMOTION() {
         return (int)1623L;
     }
+    /** (int)1623L */
+    public static final int SDL_CONTROLLERTOUCHPADMOTION = SDL_CONTROLLERTOUCHPADMOTION();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERTOUCHPADUP = 1624;
@@ -5039,6 +5567,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERTOUCHPADUP() {
         return (int)1624L;
     }
+    /** (int)1624L */
+    public static final int SDL_CONTROLLERTOUCHPADUP = SDL_CONTROLLERTOUCHPADUP();
     /**
      * {@snippet :
      * enum .SDL_CONTROLLERSENSORUPDATE = 1625;
@@ -5047,6 +5577,8 @@ public class SDL2_1 {
     public static int SDL_CONTROLLERSENSORUPDATE() {
         return (int)1625L;
     }
+    /** (int)1625L */
+    public static final int SDL_CONTROLLERSENSORUPDATE = SDL_CONTROLLERSENSORUPDATE();
     /**
      * {@snippet :
      * enum .SDL_FINGERDOWN = 1792;
@@ -5055,6 +5587,8 @@ public class SDL2_1 {
     public static int SDL_FINGERDOWN() {
         return (int)1792L;
     }
+    /** (int)1792L */
+    public static final int SDL_FINGERDOWN = SDL_FINGERDOWN();
     /**
      * {@snippet :
      * enum .SDL_FINGERUP = 1793;
@@ -5063,6 +5597,8 @@ public class SDL2_1 {
     public static int SDL_FINGERUP() {
         return (int)1793L;
     }
+    /** (int)1793L */
+    public static final int SDL_FINGERUP = SDL_FINGERUP();
     /**
      * {@snippet :
      * enum .SDL_FINGERMOTION = 1794;
@@ -5071,6 +5607,8 @@ public class SDL2_1 {
     public static int SDL_FINGERMOTION() {
         return (int)1794L;
     }
+    /** (int)1794L */
+    public static final int SDL_FINGERMOTION = SDL_FINGERMOTION();
     /**
      * {@snippet :
      * enum .SDL_DOLLARGESTURE = 2048;
@@ -5079,6 +5617,8 @@ public class SDL2_1 {
     public static int SDL_DOLLARGESTURE() {
         return (int)2048L;
     }
+    /** (int)2048L */
+    public static final int SDL_DOLLARGESTURE = SDL_DOLLARGESTURE();
     /**
      * {@snippet :
      * enum .SDL_DOLLARRECORD = 2049;
@@ -5087,6 +5627,8 @@ public class SDL2_1 {
     public static int SDL_DOLLARRECORD() {
         return (int)2049L;
     }
+    /** (int)2049L */
+    public static final int SDL_DOLLARRECORD = SDL_DOLLARRECORD();
     /**
      * {@snippet :
      * enum .SDL_MULTIGESTURE = 2050;
@@ -5095,6 +5637,8 @@ public class SDL2_1 {
     public static int SDL_MULTIGESTURE() {
         return (int)2050L;
     }
+    /** (int)2050L */
+    public static final int SDL_MULTIGESTURE = SDL_MULTIGESTURE();
     /**
      * {@snippet :
      * enum .SDL_CLIPBOARDUPDATE = 2304;
@@ -5103,6 +5647,8 @@ public class SDL2_1 {
     public static int SDL_CLIPBOARDUPDATE() {
         return (int)2304L;
     }
+    /** (int)2304L */
+    public static final int SDL_CLIPBOARDUPDATE = SDL_CLIPBOARDUPDATE();
     /**
      * {@snippet :
      * enum .SDL_DROPFILE = 4096;
@@ -5111,6 +5657,8 @@ public class SDL2_1 {
     public static int SDL_DROPFILE() {
         return (int)4096L;
     }
+    /** (int)4096L */
+    public static final int SDL_DROPFILE = SDL_DROPFILE();
     /**
      * {@snippet :
      * enum .SDL_DROPTEXT = 4097;
@@ -5119,6 +5667,8 @@ public class SDL2_1 {
     public static int SDL_DROPTEXT() {
         return (int)4097L;
     }
+    /** (int)4097L */
+    public static final int SDL_DROPTEXT = SDL_DROPTEXT();
     /**
      * {@snippet :
      * enum .SDL_DROPBEGIN = 4098;
@@ -5127,6 +5677,8 @@ public class SDL2_1 {
     public static int SDL_DROPBEGIN() {
         return (int)4098L;
     }
+    /** (int)4098L */
+    public static final int SDL_DROPBEGIN = SDL_DROPBEGIN();
     /**
      * {@snippet :
      * enum .SDL_DROPCOMPLETE = 4099;
@@ -5135,6 +5687,8 @@ public class SDL2_1 {
     public static int SDL_DROPCOMPLETE() {
         return (int)4099L;
     }
+    /** (int)4099L */
+    public static final int SDL_DROPCOMPLETE = SDL_DROPCOMPLETE();
     /**
      * {@snippet :
      * enum .SDL_AUDIODEVICEADDED = 4352;
@@ -5143,6 +5697,8 @@ public class SDL2_1 {
     public static int SDL_AUDIODEVICEADDED() {
         return (int)4352L;
     }
+    /** (int)4352L */
+    public static final int SDL_AUDIODEVICEADDED = SDL_AUDIODEVICEADDED();
     /**
      * {@snippet :
      * enum .SDL_AUDIODEVICEREMOVED = 4353;
@@ -5151,6 +5707,8 @@ public class SDL2_1 {
     public static int SDL_AUDIODEVICEREMOVED() {
         return (int)4353L;
     }
+    /** (int)4353L */
+    public static final int SDL_AUDIODEVICEREMOVED = SDL_AUDIODEVICEREMOVED();
     /**
      * {@snippet :
      * enum .SDL_SENSORUPDATE = 4608;
@@ -5159,6 +5717,8 @@ public class SDL2_1 {
     public static int SDL_SENSORUPDATE() {
         return (int)4608L;
     }
+    /** (int)4608L */
+    public static final int SDL_SENSORUPDATE = SDL_SENSORUPDATE();
     /**
      * {@snippet :
      * enum .SDL_RENDER_TARGETS_RESET = 8192;
@@ -5167,6 +5727,8 @@ public class SDL2_1 {
     public static int SDL_RENDER_TARGETS_RESET() {
         return (int)8192L;
     }
+    /** (int)8192L */
+    public static final int SDL_RENDER_TARGETS_RESET = SDL_RENDER_TARGETS_RESET();
     /**
      * {@snippet :
      * enum .SDL_RENDER_DEVICE_RESET = 8193;
@@ -5175,6 +5737,8 @@ public class SDL2_1 {
     public static int SDL_RENDER_DEVICE_RESET() {
         return (int)8193L;
     }
+    /** (int)8193L */
+    public static final int SDL_RENDER_DEVICE_RESET = SDL_RENDER_DEVICE_RESET();
     /**
      * {@snippet :
      * enum .SDL_POLLSENTINEL = 32512;
@@ -5183,6 +5747,8 @@ public class SDL2_1 {
     public static int SDL_POLLSENTINEL() {
         return (int)32512L;
     }
+    /** (int)32512L */
+    public static final int SDL_POLLSENTINEL = SDL_POLLSENTINEL();
     /**
      * {@snippet :
      * enum .SDL_USEREVENT = 32768;
@@ -5191,6 +5757,8 @@ public class SDL2_1 {
     public static int SDL_USEREVENT() {
         return (int)32768L;
     }
+    /** (int)32768L */
+    public static final int SDL_USEREVENT = SDL_USEREVENT();
     /**
      * {@snippet :
      * enum .SDL_LASTEVENT = 65535;
@@ -5199,6 +5767,8 @@ public class SDL2_1 {
     public static int SDL_LASTEVENT() {
         return (int)65535L;
     }
+    /** (int)65535L */
+    public static final int SDL_LASTEVENT = SDL_LASTEVENT();
     public static MethodHandle SDL_PumpEvents$MH() {
         return RuntimeHelper.requireNonNull(constants$163.const$2,"SDL_PumpEvents");
     }
@@ -5223,6 +5793,8 @@ public class SDL2_1 {
     public static int SDL_ADDEVENT() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_ADDEVENT = SDL_ADDEVENT();
     /**
      * {@snippet :
      * enum .SDL_PEEKEVENT = 1;
@@ -5231,6 +5803,8 @@ public class SDL2_1 {
     public static int SDL_PEEKEVENT() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_PEEKEVENT = SDL_PEEKEVENT();
     /**
      * {@snippet :
      * enum .SDL_GETEVENT = 2;
@@ -5239,6 +5813,8 @@ public class SDL2_1 {
     public static int SDL_GETEVENT() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_GETEVENT = SDL_GETEVENT();
     public static MethodHandle SDL_PeepEvents$MH() {
         return RuntimeHelper.requireNonNull(constants$163.const$4,"SDL_PeepEvents");
     }
@@ -6319,6 +6895,8 @@ public class SDL2_1 {
     public static int SDL_HINT_DEFAULT() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_HINT_DEFAULT = SDL_HINT_DEFAULT();
     /**
      * {@snippet :
      * enum .SDL_HINT_NORMAL = 1;
@@ -6327,6 +6905,8 @@ public class SDL2_1 {
     public static int SDL_HINT_NORMAL() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_HINT_NORMAL = SDL_HINT_NORMAL();
     /**
      * {@snippet :
      * enum .SDL_HINT_OVERRIDE = 2;
@@ -6335,6 +6915,8 @@ public class SDL2_1 {
     public static int SDL_HINT_OVERRIDE() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_HINT_OVERRIDE = SDL_HINT_OVERRIDE();
     public static MethodHandle SDL_SetHintWithPriority$MH() {
         return RuntimeHelper.requireNonNull(constants$189.const$4,"SDL_SetHintWithPriority");
     }
@@ -6535,6 +7117,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_APPLICATION() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_LOG_CATEGORY_APPLICATION = SDL_LOG_CATEGORY_APPLICATION();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_ERROR = 1;
@@ -6543,6 +7127,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_ERROR() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_LOG_CATEGORY_ERROR = SDL_LOG_CATEGORY_ERROR();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_ASSERT = 2;
@@ -6551,6 +7137,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_ASSERT() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_LOG_CATEGORY_ASSERT = SDL_LOG_CATEGORY_ASSERT();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_SYSTEM = 3;
@@ -6559,6 +7147,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_SYSTEM() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_LOG_CATEGORY_SYSTEM = SDL_LOG_CATEGORY_SYSTEM();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_AUDIO = 4;
@@ -6567,6 +7157,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_AUDIO() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_LOG_CATEGORY_AUDIO = SDL_LOG_CATEGORY_AUDIO();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_VIDEO = 5;
@@ -6575,6 +7167,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_VIDEO() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_LOG_CATEGORY_VIDEO = SDL_LOG_CATEGORY_VIDEO();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RENDER = 6;
@@ -6583,6 +7177,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RENDER() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_LOG_CATEGORY_RENDER = SDL_LOG_CATEGORY_RENDER();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_INPUT = 7;
@@ -6591,6 +7187,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_INPUT() {
         return (int)7L;
     }
+    /** (int)7L */
+    public static final int SDL_LOG_CATEGORY_INPUT = SDL_LOG_CATEGORY_INPUT();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_TEST = 8;
@@ -6599,6 +7197,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_TEST() {
         return (int)8L;
     }
+    /** (int)8L */
+    public static final int SDL_LOG_CATEGORY_TEST = SDL_LOG_CATEGORY_TEST();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED1 = 9;
@@ -6607,6 +7207,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED1() {
         return (int)9L;
     }
+    /** (int)9L */
+    public static final int SDL_LOG_CATEGORY_RESERVED1 = SDL_LOG_CATEGORY_RESERVED1();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED2 = 10;
@@ -6615,6 +7217,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED2() {
         return (int)10L;
     }
+    /** (int)10L */
+    public static final int SDL_LOG_CATEGORY_RESERVED2 = SDL_LOG_CATEGORY_RESERVED2();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED3 = 11;
@@ -6623,6 +7227,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED3() {
         return (int)11L;
     }
+    /** (int)11L */
+    public static final int SDL_LOG_CATEGORY_RESERVED3 = SDL_LOG_CATEGORY_RESERVED3();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED4 = 12;
@@ -6631,6 +7237,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED4() {
         return (int)12L;
     }
+    /** (int)12L */
+    public static final int SDL_LOG_CATEGORY_RESERVED4 = SDL_LOG_CATEGORY_RESERVED4();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED5 = 13;
@@ -6639,6 +7247,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED5() {
         return (int)13L;
     }
+    /** (int)13L */
+    public static final int SDL_LOG_CATEGORY_RESERVED5 = SDL_LOG_CATEGORY_RESERVED5();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED6 = 14;
@@ -6647,6 +7257,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED6() {
         return (int)14L;
     }
+    /** (int)14L */
+    public static final int SDL_LOG_CATEGORY_RESERVED6 = SDL_LOG_CATEGORY_RESERVED6();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED7 = 15;
@@ -6655,6 +7267,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED7() {
         return (int)15L;
     }
+    /** (int)15L */
+    public static final int SDL_LOG_CATEGORY_RESERVED7 = SDL_LOG_CATEGORY_RESERVED7();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED8 = 16;
@@ -6663,6 +7277,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED8() {
         return (int)16L;
     }
+    /** (int)16L */
+    public static final int SDL_LOG_CATEGORY_RESERVED8 = SDL_LOG_CATEGORY_RESERVED8();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED9 = 17;
@@ -6671,6 +7287,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED9() {
         return (int)17L;
     }
+    /** (int)17L */
+    public static final int SDL_LOG_CATEGORY_RESERVED9 = SDL_LOG_CATEGORY_RESERVED9();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_RESERVED10 = 18;
@@ -6679,6 +7297,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_RESERVED10() {
         return (int)18L;
     }
+    /** (int)18L */
+    public static final int SDL_LOG_CATEGORY_RESERVED10 = SDL_LOG_CATEGORY_RESERVED10();
     /**
      * {@snippet :
      * enum .SDL_LOG_CATEGORY_CUSTOM = 19;
@@ -6687,6 +7307,8 @@ public class SDL2_1 {
     public static int SDL_LOG_CATEGORY_CUSTOM() {
         return (int)19L;
     }
+    /** (int)19L */
+    public static final int SDL_LOG_CATEGORY_CUSTOM = SDL_LOG_CATEGORY_CUSTOM();
     /**
      * {@snippet :
      * enum .SDL_LOG_PRIORITY_VERBOSE = 1;
@@ -6695,6 +7317,8 @@ public class SDL2_1 {
     public static int SDL_LOG_PRIORITY_VERBOSE() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_LOG_PRIORITY_VERBOSE = SDL_LOG_PRIORITY_VERBOSE();
     /**
      * {@snippet :
      * enum .SDL_LOG_PRIORITY_DEBUG = 2;
@@ -6703,6 +7327,8 @@ public class SDL2_1 {
     public static int SDL_LOG_PRIORITY_DEBUG() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_LOG_PRIORITY_DEBUG = SDL_LOG_PRIORITY_DEBUG();
     /**
      * {@snippet :
      * enum .SDL_LOG_PRIORITY_INFO = 3;
@@ -6711,6 +7337,8 @@ public class SDL2_1 {
     public static int SDL_LOG_PRIORITY_INFO() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_LOG_PRIORITY_INFO = SDL_LOG_PRIORITY_INFO();
     /**
      * {@snippet :
      * enum .SDL_LOG_PRIORITY_WARN = 4;
@@ -6719,6 +7347,8 @@ public class SDL2_1 {
     public static int SDL_LOG_PRIORITY_WARN() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_LOG_PRIORITY_WARN = SDL_LOG_PRIORITY_WARN();
     /**
      * {@snippet :
      * enum .SDL_LOG_PRIORITY_ERROR = 5;
@@ -6727,6 +7357,8 @@ public class SDL2_1 {
     public static int SDL_LOG_PRIORITY_ERROR() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_LOG_PRIORITY_ERROR = SDL_LOG_PRIORITY_ERROR();
     /**
      * {@snippet :
      * enum .SDL_LOG_PRIORITY_CRITICAL = 6;
@@ -6735,6 +7367,8 @@ public class SDL2_1 {
     public static int SDL_LOG_PRIORITY_CRITICAL() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_LOG_PRIORITY_CRITICAL = SDL_LOG_PRIORITY_CRITICAL();
     /**
      * {@snippet :
      * enum .SDL_NUM_LOG_PRIORITIES = 7;
@@ -6743,6 +7377,8 @@ public class SDL2_1 {
     public static int SDL_NUM_LOG_PRIORITIES() {
         return (int)7L;
     }
+    /** (int)7L */
+    public static final int SDL_NUM_LOG_PRIORITIES = SDL_NUM_LOG_PRIORITIES();
     public static MethodHandle SDL_LogSetAllPriority$MH() {
         return RuntimeHelper.requireNonNull(constants$192.const$1,"SDL_LogSetAllPriority");
     }
@@ -6991,6 +7627,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_ERROR() {
         return (int)16L;
     }
+    /** (int)16L */
+    public static final int SDL_MESSAGEBOX_ERROR = SDL_MESSAGEBOX_ERROR();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_WARNING = 32;
@@ -6999,6 +7637,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_WARNING() {
         return (int)32L;
     }
+    /** (int)32L */
+    public static final int SDL_MESSAGEBOX_WARNING = SDL_MESSAGEBOX_WARNING();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_INFORMATION = 64;
@@ -7007,6 +7647,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_INFORMATION() {
         return (int)64L;
     }
+    /** (int)64L */
+    public static final int SDL_MESSAGEBOX_INFORMATION = SDL_MESSAGEBOX_INFORMATION();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_BUTTONS_LEFT_TO_RIGHT = 128;
@@ -7015,6 +7657,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_BUTTONS_LEFT_TO_RIGHT() {
         return (int)128L;
     }
+    /** (int)128L */
+    public static final int SDL_MESSAGEBOX_BUTTONS_LEFT_TO_RIGHT = SDL_MESSAGEBOX_BUTTONS_LEFT_TO_RIGHT();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_BUTTONS_RIGHT_TO_LEFT = 256;
@@ -7023,6 +7667,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_BUTTONS_RIGHT_TO_LEFT() {
         return (int)256L;
     }
+    /** (int)256L */
+    public static final int SDL_MESSAGEBOX_BUTTONS_RIGHT_TO_LEFT = SDL_MESSAGEBOX_BUTTONS_RIGHT_TO_LEFT();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_BUTTON_RETURNKEY_DEFAULT = 1;
@@ -7031,6 +7677,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_BUTTON_RETURNKEY_DEFAULT() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_MESSAGEBOX_BUTTON_RETURNKEY_DEFAULT = SDL_MESSAGEBOX_BUTTON_RETURNKEY_DEFAULT();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_BUTTON_ESCAPEKEY_DEFAULT = 2;
@@ -7039,6 +7687,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_BUTTON_ESCAPEKEY_DEFAULT() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_MESSAGEBOX_BUTTON_ESCAPEKEY_DEFAULT = SDL_MESSAGEBOX_BUTTON_ESCAPEKEY_DEFAULT();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_COLOR_BACKGROUND = 0;
@@ -7047,6 +7697,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_COLOR_BACKGROUND() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_MESSAGEBOX_COLOR_BACKGROUND = SDL_MESSAGEBOX_COLOR_BACKGROUND();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_COLOR_TEXT = 1;
@@ -7055,6 +7707,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_COLOR_TEXT() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_MESSAGEBOX_COLOR_TEXT = SDL_MESSAGEBOX_COLOR_TEXT();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_COLOR_BUTTON_BORDER = 2;
@@ -7063,6 +7717,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_COLOR_BUTTON_BORDER() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_MESSAGEBOX_COLOR_BUTTON_BORDER = SDL_MESSAGEBOX_COLOR_BUTTON_BORDER();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_COLOR_BUTTON_BACKGROUND = 3;
@@ -7071,6 +7727,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_COLOR_BUTTON_BACKGROUND() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_MESSAGEBOX_COLOR_BUTTON_BACKGROUND = SDL_MESSAGEBOX_COLOR_BUTTON_BACKGROUND();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_COLOR_BUTTON_SELECTED = 4;
@@ -7079,6 +7737,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_COLOR_BUTTON_SELECTED() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_MESSAGEBOX_COLOR_BUTTON_SELECTED = SDL_MESSAGEBOX_COLOR_BUTTON_SELECTED();
     /**
      * {@snippet :
      * enum .SDL_MESSAGEBOX_COLOR_MAX = 5;
@@ -7087,6 +7747,8 @@ public class SDL2_1 {
     public static int SDL_MESSAGEBOX_COLOR_MAX() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_MESSAGEBOX_COLOR_MAX = SDL_MESSAGEBOX_COLOR_MAX();
     public static MethodHandle SDL_ShowMessageBox$MH() {
         return RuntimeHelper.requireNonNull(constants$198.const$3,"SDL_ShowMessageBox");
     }
@@ -7197,6 +7859,8 @@ public class SDL2_1 {
     public static int SDL_POWERSTATE_UNKNOWN() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_POWERSTATE_UNKNOWN = SDL_POWERSTATE_UNKNOWN();
     /**
      * {@snippet :
      * enum .SDL_POWERSTATE_ON_BATTERY = 1;
@@ -7205,6 +7869,8 @@ public class SDL2_1 {
     public static int SDL_POWERSTATE_ON_BATTERY() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_POWERSTATE_ON_BATTERY = SDL_POWERSTATE_ON_BATTERY();
     /**
      * {@snippet :
      * enum .SDL_POWERSTATE_NO_BATTERY = 2;
@@ -7213,6 +7879,8 @@ public class SDL2_1 {
     public static int SDL_POWERSTATE_NO_BATTERY() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_POWERSTATE_NO_BATTERY = SDL_POWERSTATE_NO_BATTERY();
     /**
      * {@snippet :
      * enum .SDL_POWERSTATE_CHARGING = 3;
@@ -7221,6 +7889,8 @@ public class SDL2_1 {
     public static int SDL_POWERSTATE_CHARGING() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_POWERSTATE_CHARGING = SDL_POWERSTATE_CHARGING();
     /**
      * {@snippet :
      * enum .SDL_POWERSTATE_CHARGED = 4;
@@ -7229,6 +7899,8 @@ public class SDL2_1 {
     public static int SDL_POWERSTATE_CHARGED() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_POWERSTATE_CHARGED = SDL_POWERSTATE_CHARGED();
     public static MethodHandle SDL_GetPowerInfo$MH() {
         return RuntimeHelper.requireNonNull(constants$199.const$3,"SDL_GetPowerInfo");
     }
@@ -7253,6 +7925,8 @@ public class SDL2_1 {
     public static int SDL_RENDERER_SOFTWARE() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_RENDERER_SOFTWARE = SDL_RENDERER_SOFTWARE();
     /**
      * {@snippet :
      * enum .SDL_RENDERER_ACCELERATED = 2;
@@ -7261,6 +7935,8 @@ public class SDL2_1 {
     public static int SDL_RENDERER_ACCELERATED() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_RENDERER_ACCELERATED = SDL_RENDERER_ACCELERATED();
     /**
      * {@snippet :
      * enum .SDL_RENDERER_PRESENTVSYNC = 4;
@@ -7269,6 +7945,8 @@ public class SDL2_1 {
     public static int SDL_RENDERER_PRESENTVSYNC() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_RENDERER_PRESENTVSYNC = SDL_RENDERER_PRESENTVSYNC();
     /**
      * {@snippet :
      * enum .SDL_RENDERER_TARGETTEXTURE = 8;
@@ -7277,6 +7955,8 @@ public class SDL2_1 {
     public static int SDL_RENDERER_TARGETTEXTURE() {
         return (int)8L;
     }
+    /** (int)8L */
+    public static final int SDL_RENDERER_TARGETTEXTURE = SDL_RENDERER_TARGETTEXTURE();
     /**
      * {@snippet :
      * enum .SDL_ScaleModeNearest = 0;
@@ -7285,6 +7965,8 @@ public class SDL2_1 {
     public static int SDL_ScaleModeNearest() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_ScaleModeNearest = SDL_ScaleModeNearest();
     /**
      * {@snippet :
      * enum .SDL_ScaleModeLinear = 1;
@@ -7293,6 +7975,8 @@ public class SDL2_1 {
     public static int SDL_ScaleModeLinear() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_ScaleModeLinear = SDL_ScaleModeLinear();
     /**
      * {@snippet :
      * enum .SDL_ScaleModeBest = 2;
@@ -7301,6 +7985,8 @@ public class SDL2_1 {
     public static int SDL_ScaleModeBest() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_ScaleModeBest = SDL_ScaleModeBest();
     /**
      * {@snippet :
      * enum .SDL_TEXTUREACCESS_STATIC = 0;
@@ -7309,6 +7995,8 @@ public class SDL2_1 {
     public static int SDL_TEXTUREACCESS_STATIC() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_TEXTUREACCESS_STATIC = SDL_TEXTUREACCESS_STATIC();
     /**
      * {@snippet :
      * enum .SDL_TEXTUREACCESS_STREAMING = 1;
@@ -7317,6 +8005,8 @@ public class SDL2_1 {
     public static int SDL_TEXTUREACCESS_STREAMING() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_TEXTUREACCESS_STREAMING = SDL_TEXTUREACCESS_STREAMING();
     /**
      * {@snippet :
      * enum .SDL_TEXTUREACCESS_TARGET = 2;
@@ -7325,6 +8015,8 @@ public class SDL2_1 {
     public static int SDL_TEXTUREACCESS_TARGET() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_TEXTUREACCESS_TARGET = SDL_TEXTUREACCESS_TARGET();
     /**
      * {@snippet :
      * enum .SDL_TEXTUREMODULATE_NONE = 0;
@@ -7333,6 +8025,8 @@ public class SDL2_1 {
     public static int SDL_TEXTUREMODULATE_NONE() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_TEXTUREMODULATE_NONE = SDL_TEXTUREMODULATE_NONE();
     /**
      * {@snippet :
      * enum .SDL_TEXTUREMODULATE_COLOR = 1;
@@ -7341,6 +8035,8 @@ public class SDL2_1 {
     public static int SDL_TEXTUREMODULATE_COLOR() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_TEXTUREMODULATE_COLOR = SDL_TEXTUREMODULATE_COLOR();
     /**
      * {@snippet :
      * enum .SDL_TEXTUREMODULATE_ALPHA = 2;
@@ -7349,6 +8045,8 @@ public class SDL2_1 {
     public static int SDL_TEXTUREMODULATE_ALPHA() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_TEXTUREMODULATE_ALPHA = SDL_TEXTUREMODULATE_ALPHA();
     /**
      * {@snippet :
      * enum .SDL_FLIP_NONE = 0;
@@ -7357,6 +8055,8 @@ public class SDL2_1 {
     public static int SDL_FLIP_NONE() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_FLIP_NONE = SDL_FLIP_NONE();
     /**
      * {@snippet :
      * enum .SDL_FLIP_HORIZONTAL = 1;
@@ -7365,6 +8065,8 @@ public class SDL2_1 {
     public static int SDL_FLIP_HORIZONTAL() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_FLIP_HORIZONTAL = SDL_FLIP_HORIZONTAL();
     /**
      * {@snippet :
      * enum .SDL_FLIP_VERTICAL = 2;
@@ -7373,6 +8075,8 @@ public class SDL2_1 {
     public static int SDL_FLIP_VERTICAL() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_FLIP_VERTICAL = SDL_FLIP_VERTICAL();
     public static MethodHandle SDL_GetNumRenderDrivers$MH() {
         return RuntimeHelper.requireNonNull(constants$200.const$5,"SDL_GetNumRenderDrivers");
     }
@@ -8709,6 +9413,8 @@ public class SDL2_1 {
     public static int ShapeModeDefault() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int ShapeModeDefault = ShapeModeDefault();
     /**
      * {@snippet :
      * enum .ShapeModeBinarizeAlpha = 1;
@@ -8717,6 +9423,8 @@ public class SDL2_1 {
     public static int ShapeModeBinarizeAlpha() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int ShapeModeBinarizeAlpha = ShapeModeBinarizeAlpha();
     /**
      * {@snippet :
      * enum .ShapeModeReverseBinarizeAlpha = 2;
@@ -8725,6 +9433,8 @@ public class SDL2_1 {
     public static int ShapeModeReverseBinarizeAlpha() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int ShapeModeReverseBinarizeAlpha = ShapeModeReverseBinarizeAlpha();
     /**
      * {@snippet :
      * enum .ShapeModeColorKey = 3;
@@ -8733,6 +9443,8 @@ public class SDL2_1 {
     public static int ShapeModeColorKey() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int ShapeModeColorKey = ShapeModeColorKey();
     public static MethodHandle SDL_SetWindowShape$MH() {
         return RuntimeHelper.requireNonNull(constants$217.const$1,"SDL_SetWindowShape");
     }
@@ -9309,7 +10021,7 @@ public class SDL2_1 {
     }
     /**
      * {@snippet :
-     * #define SDL_FILE "/tmp/jextract$3622914355630244005.h"
+     * #define SDL_FILE "/tmp/jextract$2849531975144086477.h"
      * }
      */
     public static MemorySegment SDL_FILE() {
@@ -9323,6 +10035,8 @@ public class SDL2_1 {
     public static int SDL_LINE() {
         return (int)215L;
     }
+    /** (int)215L */
+    public static final int SDL_LINE = SDL_LINE();
     /**
      * {@snippet :
      * #define SDL_NULL_WHILE_LOOP_CONDITION 0
@@ -9331,6 +10045,8 @@ public class SDL2_1 {
     public static int SDL_NULL_WHILE_LOOP_CONDITION() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_NULL_WHILE_LOOP_CONDITION = SDL_NULL_WHILE_LOOP_CONDITION();
     /**
      * {@snippet :
      * #define SDL_BYTEORDER 1234
@@ -9339,6 +10055,8 @@ public class SDL2_1 {
     public static int SDL_BYTEORDER() {
         return (int)1234L;
     }
+    /** (int)1234L */
+    public static final int SDL_BYTEORDER = SDL_BYTEORDER();
     /**
      * {@snippet :
      * #define SDL_FLOATWORDORDER 1234
@@ -9347,6 +10065,8 @@ public class SDL2_1 {
     public static int SDL_FLOATWORDORDER() {
         return (int)1234L;
     }
+    /** (int)1234L */
+    public static final int SDL_FLOATWORDORDER = SDL_FLOATWORDORDER();
     /**
      * {@snippet :
      * #define SDL_MUTEX_MAXWAIT 4294967295
@@ -9355,6 +10075,8 @@ public class SDL2_1 {
     public static int SDL_MUTEX_MAXWAIT() {
         return (int)4294967295L;
     }
+    /** (int)4294967295L */
+    public static final int SDL_MUTEX_MAXWAIT = SDL_MUTEX_MAXWAIT();
     /**
      * {@snippet :
      * #define SDL_RWOPS_UNKNOWN 0
@@ -9363,6 +10085,8 @@ public class SDL2_1 {
     public static int SDL_RWOPS_UNKNOWN() {
         return (int)0L;
     }
+    /** (int)0L */
+    public static final int SDL_RWOPS_UNKNOWN = SDL_RWOPS_UNKNOWN();
     /**
      * {@snippet :
      * #define SDL_RWOPS_WINFILE 1
@@ -9371,6 +10095,8 @@ public class SDL2_1 {
     public static int SDL_RWOPS_WINFILE() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_RWOPS_WINFILE = SDL_RWOPS_WINFILE();
     /**
      * {@snippet :
      * #define SDL_RWOPS_STDFILE 2
@@ -9379,6 +10105,8 @@ public class SDL2_1 {
     public static int SDL_RWOPS_STDFILE() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_RWOPS_STDFILE = SDL_RWOPS_STDFILE();
     /**
      * {@snippet :
      * #define SDL_RWOPS_JNIFILE 3
@@ -9387,6 +10115,8 @@ public class SDL2_1 {
     public static int SDL_RWOPS_JNIFILE() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_RWOPS_JNIFILE = SDL_RWOPS_JNIFILE();
     /**
      * {@snippet :
      * #define SDL_RWOPS_MEMORY 4
@@ -9395,6 +10125,8 @@ public class SDL2_1 {
     public static int SDL_RWOPS_MEMORY() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_RWOPS_MEMORY = SDL_RWOPS_MEMORY();
     /**
      * {@snippet :
      * #define SDL_RWOPS_MEMORY_RO 5
@@ -9403,6 +10135,8 @@ public class SDL2_1 {
     public static int SDL_RWOPS_MEMORY_RO() {
         return (int)5L;
     }
+    /** (int)5L */
+    public static final int SDL_RWOPS_MEMORY_RO = SDL_RWOPS_MEMORY_RO();
     /**
      * {@snippet :
      * #define SDL_AUDIO_MASK_BITSIZE 255
@@ -9411,6 +10145,8 @@ public class SDL2_1 {
     public static int SDL_AUDIO_MASK_BITSIZE() {
         return (int)255L;
     }
+    /** (int)255L */
+    public static final int SDL_AUDIO_MASK_BITSIZE = SDL_AUDIO_MASK_BITSIZE();
     /**
      * {@snippet :
      * #define SDL_AUDIO_MASK_DATATYPE 256
@@ -9419,6 +10155,8 @@ public class SDL2_1 {
     public static int SDL_AUDIO_MASK_DATATYPE() {
         return (int)256L;
     }
+    /** (int)256L */
+    public static final int SDL_AUDIO_MASK_DATATYPE = SDL_AUDIO_MASK_DATATYPE();
     /**
      * {@snippet :
      * #define SDL_AUDIO_MASK_ENDIAN 4096
@@ -9427,6 +10165,8 @@ public class SDL2_1 {
     public static int SDL_AUDIO_MASK_ENDIAN() {
         return (int)4096L;
     }
+    /** (int)4096L */
+    public static final int SDL_AUDIO_MASK_ENDIAN = SDL_AUDIO_MASK_ENDIAN();
     /**
      * {@snippet :
      * #define SDL_AUDIO_MASK_SIGNED 32768
@@ -9435,6 +10175,8 @@ public class SDL2_1 {
     public static int SDL_AUDIO_MASK_SIGNED() {
         return (int)32768L;
     }
+    /** (int)32768L */
+    public static final int SDL_AUDIO_MASK_SIGNED = SDL_AUDIO_MASK_SIGNED();
     /**
      * {@snippet :
      * #define AUDIO_U16 16
@@ -9443,6 +10185,8 @@ public class SDL2_1 {
     public static int AUDIO_U16() {
         return (int)16L;
     }
+    /** (int)16L */
+    public static final int AUDIO_U16 = AUDIO_U16();
     /**
      * {@snippet :
      * #define AUDIO_S16 32784
@@ -9451,6 +10195,8 @@ public class SDL2_1 {
     public static int AUDIO_S16() {
         return (int)32784L;
     }
+    /** (int)32784L */
+    public static final int AUDIO_S16 = AUDIO_S16();
     /**
      * {@snippet :
      * #define AUDIO_S32 32800
@@ -9459,6 +10205,8 @@ public class SDL2_1 {
     public static int AUDIO_S32() {
         return (int)32800L;
     }
+    /** (int)32800L */
+    public static final int AUDIO_S32 = AUDIO_S32();
     /**
      * {@snippet :
      * #define AUDIO_F32 33056
@@ -9467,6 +10215,8 @@ public class SDL2_1 {
     public static int AUDIO_F32() {
         return (int)33056L;
     }
+    /** (int)33056L */
+    public static final int AUDIO_F32 = AUDIO_F32();
     /**
      * {@snippet :
      * #define AUDIO_U16SYS 16
@@ -9475,6 +10225,8 @@ public class SDL2_1 {
     public static int AUDIO_U16SYS() {
         return (int)16L;
     }
+    /** (int)16L */
+    public static final int AUDIO_U16SYS = AUDIO_U16SYS();
     /**
      * {@snippet :
      * #define AUDIO_S16SYS 32784
@@ -9483,6 +10235,8 @@ public class SDL2_1 {
     public static int AUDIO_S16SYS() {
         return (int)32784L;
     }
+    /** (int)32784L */
+    public static final int AUDIO_S16SYS = AUDIO_S16SYS();
     /**
      * {@snippet :
      * #define AUDIO_S32SYS 32800
@@ -9491,6 +10245,8 @@ public class SDL2_1 {
     public static int AUDIO_S32SYS() {
         return (int)32800L;
     }
+    /** (int)32800L */
+    public static final int AUDIO_S32SYS = AUDIO_S32SYS();
     /**
      * {@snippet :
      * #define AUDIO_F32SYS 33056
@@ -9499,6 +10255,8 @@ public class SDL2_1 {
     public static int AUDIO_F32SYS() {
         return (int)33056L;
     }
+    /** (int)33056L */
+    public static final int AUDIO_F32SYS = AUDIO_F32SYS();
     /**
      * {@snippet :
      * #define SDL_AUDIO_ALLOW_ANY_CHANGE 15
@@ -9507,6 +10265,8 @@ public class SDL2_1 {
     public static int SDL_AUDIO_ALLOW_ANY_CHANGE() {
         return (int)15L;
     }
+    /** (int)15L */
+    public static final int SDL_AUDIO_ALLOW_ANY_CHANGE = SDL_AUDIO_ALLOW_ANY_CHANGE();
     /**
      * {@snippet :
      * #define SDL_WINDOWPOS_UNDEFINED_MASK 536805376
@@ -9515,6 +10275,8 @@ public class SDL2_1 {
     public static int SDL_WINDOWPOS_UNDEFINED_MASK() {
         return (int)536805376L;
     }
+    /** (int)536805376L */
+    public static final int SDL_WINDOWPOS_UNDEFINED_MASK = SDL_WINDOWPOS_UNDEFINED_MASK();
     /**
      * {@snippet :
      * #define SDL_WINDOWPOS_UNDEFINED 536805376
@@ -9523,6 +10285,8 @@ public class SDL2_1 {
     public static int SDL_WINDOWPOS_UNDEFINED() {
         return (int)536805376L;
     }
+    /** (int)536805376L */
+    public static final int SDL_WINDOWPOS_UNDEFINED = SDL_WINDOWPOS_UNDEFINED();
     /**
      * {@snippet :
      * #define SDL_WINDOWPOS_CENTERED_MASK 805240832
@@ -9531,6 +10295,8 @@ public class SDL2_1 {
     public static int SDL_WINDOWPOS_CENTERED_MASK() {
         return (int)805240832L;
     }
+    /** (int)805240832L */
+    public static final int SDL_WINDOWPOS_CENTERED_MASK = SDL_WINDOWPOS_CENTERED_MASK();
     /**
      * {@snippet :
      * #define SDL_WINDOWPOS_CENTERED 805240832
@@ -9539,6 +10305,8 @@ public class SDL2_1 {
     public static int SDL_WINDOWPOS_CENTERED() {
         return (int)805240832L;
     }
+    /** (int)805240832L */
+    public static final int SDL_WINDOWPOS_CENTERED = SDL_WINDOWPOS_CENTERED();
     /**
      * {@snippet :
      * #define SDLK_SCANCODE_MASK 1073741824
@@ -9547,6 +10315,8 @@ public class SDL2_1 {
     public static int SDLK_SCANCODE_MASK() {
         return (int)1073741824L;
     }
+    /** (int)1073741824L */
+    public static final int SDLK_SCANCODE_MASK = SDLK_SCANCODE_MASK();
     /**
      * {@snippet :
      * #define SDL_BUTTON_LMASK 1
@@ -9555,6 +10325,8 @@ public class SDL2_1 {
     public static int SDL_BUTTON_LMASK() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_BUTTON_LMASK = SDL_BUTTON_LMASK();
     /**
      * {@snippet :
      * #define SDL_BUTTON_MMASK 2
@@ -9563,6 +10335,8 @@ public class SDL2_1 {
     public static int SDL_BUTTON_MMASK() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_BUTTON_MMASK = SDL_BUTTON_MMASK();
     /**
      * {@snippet :
      * #define SDL_BUTTON_RMASK 4
@@ -9571,6 +10345,8 @@ public class SDL2_1 {
     public static int SDL_BUTTON_RMASK() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_BUTTON_RMASK = SDL_BUTTON_RMASK();
     /**
      * {@snippet :
      * #define SDL_BUTTON_X1MASK 8
@@ -9579,6 +10355,8 @@ public class SDL2_1 {
     public static int SDL_BUTTON_X1MASK() {
         return (int)8L;
     }
+    /** (int)8L */
+    public static final int SDL_BUTTON_X1MASK = SDL_BUTTON_X1MASK();
     /**
      * {@snippet :
      * #define SDL_BUTTON_X2MASK 16
@@ -9587,6 +10365,8 @@ public class SDL2_1 {
     public static int SDL_BUTTON_X2MASK() {
         return (int)16L;
     }
+    /** (int)16L */
+    public static final int SDL_BUTTON_X2MASK = SDL_BUTTON_X2MASK();
     /**
      * {@snippet :
      * #define SDL_IPHONE_MAX_GFORCE 5.0
@@ -9595,6 +10375,8 @@ public class SDL2_1 {
     public static double SDL_IPHONE_MAX_GFORCE() {
         return 5.0d;
     }
+    /** 5.0d */
+    public static final double SDL_IPHONE_MAX_GFORCE = SDL_IPHONE_MAX_GFORCE();
     /**
      * {@snippet :
      * #define SDL_JOYSTICK_AXIS_MIN -32768
@@ -9603,6 +10385,8 @@ public class SDL2_1 {
     public static int SDL_JOYSTICK_AXIS_MIN() {
         return (int)-32768L;
     }
+    /** (int)-32768L */
+    public static final int SDL_JOYSTICK_AXIS_MIN = SDL_JOYSTICK_AXIS_MIN();
     /**
      * {@snippet :
      * #define SDL_HAT_RIGHTUP 3
@@ -9611,6 +10395,8 @@ public class SDL2_1 {
     public static int SDL_HAT_RIGHTUP() {
         return (int)3L;
     }
+    /** (int)3L */
+    public static final int SDL_HAT_RIGHTUP = SDL_HAT_RIGHTUP();
     /**
      * {@snippet :
      * #define SDL_HAT_RIGHTDOWN 6
@@ -9619,6 +10405,8 @@ public class SDL2_1 {
     public static int SDL_HAT_RIGHTDOWN() {
         return (int)6L;
     }
+    /** (int)6L */
+    public static final int SDL_HAT_RIGHTDOWN = SDL_HAT_RIGHTDOWN();
     /**
      * {@snippet :
      * #define SDL_HAT_LEFTUP 9
@@ -9627,6 +10415,8 @@ public class SDL2_1 {
     public static int SDL_HAT_LEFTUP() {
         return (int)9L;
     }
+    /** (int)9L */
+    public static final int SDL_HAT_LEFTUP = SDL_HAT_LEFTUP();
     /**
      * {@snippet :
      * #define SDL_HAT_LEFTDOWN 12
@@ -9635,6 +10425,8 @@ public class SDL2_1 {
     public static int SDL_HAT_LEFTDOWN() {
         return (int)12L;
     }
+    /** (int)12L */
+    public static final int SDL_HAT_LEFTDOWN = SDL_HAT_LEFTDOWN();
     /**
      * {@snippet :
      * #define SDL_STANDARD_GRAVITY 9.806650161743164
@@ -9643,6 +10435,8 @@ public class SDL2_1 {
     public static float SDL_STANDARD_GRAVITY() {
         return 9.806650161743164f;
     }
+    /** 9.806650161743164f */
+    public static final float SDL_STANDARD_GRAVITY = SDL_STANDARD_GRAVITY();
     /**
      * {@snippet :
      * #define SDL_TOUCH_MOUSEID 4294967295
@@ -9651,6 +10445,8 @@ public class SDL2_1 {
     public static int SDL_TOUCH_MOUSEID() {
         return (int)4294967295L;
     }
+    /** (int)4294967295L */
+    public static final int SDL_TOUCH_MOUSEID = SDL_TOUCH_MOUSEID();
     /**
      * {@snippet :
      * #define SDL_MOUSE_TOUCHID -1
@@ -9659,6 +10455,8 @@ public class SDL2_1 {
     public static long SDL_MOUSE_TOUCHID() {
         return -1L;
     }
+    /** -1L */
+    public static final long SDL_MOUSE_TOUCHID = SDL_MOUSE_TOUCHID();
     /**
      * {@snippet :
      * #define SDL_TEXTEDITINGEVENT_TEXT_SIZE 32
@@ -9667,6 +10465,8 @@ public class SDL2_1 {
     public static int SDL_TEXTEDITINGEVENT_TEXT_SIZE() {
         return (int)32L;
     }
+    /** (int)32L */
+    public static final int SDL_TEXTEDITINGEVENT_TEXT_SIZE = SDL_TEXTEDITINGEVENT_TEXT_SIZE();
     /**
      * {@snippet :
      * #define SDL_TEXTINPUTEVENT_TEXT_SIZE 32
@@ -9675,6 +10475,8 @@ public class SDL2_1 {
     public static int SDL_TEXTINPUTEVENT_TEXT_SIZE() {
         return (int)32L;
     }
+    /** (int)32L */
+    public static final int SDL_TEXTINPUTEVENT_TEXT_SIZE = SDL_TEXTINPUTEVENT_TEXT_SIZE();
     /**
      * {@snippet :
      * #define SDL_QUERY -1
@@ -9683,6 +10485,8 @@ public class SDL2_1 {
     public static int SDL_QUERY() {
         return (int)-1L;
     }
+    /** (int)-1L */
+    public static final int SDL_QUERY = SDL_QUERY();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_CONSTANT 1
@@ -9691,6 +10495,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_CONSTANT() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_HAPTIC_CONSTANT = SDL_HAPTIC_CONSTANT();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_SINE 2
@@ -9699,6 +10505,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_SINE() {
         return (int)2L;
     }
+    /** (int)2L */
+    public static final int SDL_HAPTIC_SINE = SDL_HAPTIC_SINE();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_LEFTRIGHT 4
@@ -9707,6 +10515,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_LEFTRIGHT() {
         return (int)4L;
     }
+    /** (int)4L */
+    public static final int SDL_HAPTIC_LEFTRIGHT = SDL_HAPTIC_LEFTRIGHT();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_TRIANGLE 8
@@ -9715,6 +10525,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_TRIANGLE() {
         return (int)8L;
     }
+    /** (int)8L */
+    public static final int SDL_HAPTIC_TRIANGLE = SDL_HAPTIC_TRIANGLE();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_SAWTOOTHUP 16
@@ -9723,6 +10535,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_SAWTOOTHUP() {
         return (int)16L;
     }
+    /** (int)16L */
+    public static final int SDL_HAPTIC_SAWTOOTHUP = SDL_HAPTIC_SAWTOOTHUP();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_SAWTOOTHDOWN 32
@@ -9731,6 +10545,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_SAWTOOTHDOWN() {
         return (int)32L;
     }
+    /** (int)32L */
+    public static final int SDL_HAPTIC_SAWTOOTHDOWN = SDL_HAPTIC_SAWTOOTHDOWN();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_RAMP 64
@@ -9739,6 +10555,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_RAMP() {
         return (int)64L;
     }
+    /** (int)64L */
+    public static final int SDL_HAPTIC_RAMP = SDL_HAPTIC_RAMP();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_SPRING 128
@@ -9747,6 +10565,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_SPRING() {
         return (int)128L;
     }
+    /** (int)128L */
+    public static final int SDL_HAPTIC_SPRING = SDL_HAPTIC_SPRING();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_DAMPER 256
@@ -9755,6 +10575,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_DAMPER() {
         return (int)256L;
     }
+    /** (int)256L */
+    public static final int SDL_HAPTIC_DAMPER = SDL_HAPTIC_DAMPER();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_INERTIA 512
@@ -9763,6 +10585,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_INERTIA() {
         return (int)512L;
     }
+    /** (int)512L */
+    public static final int SDL_HAPTIC_INERTIA = SDL_HAPTIC_INERTIA();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_FRICTION 1024
@@ -9771,6 +10595,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_FRICTION() {
         return (int)1024L;
     }
+    /** (int)1024L */
+    public static final int SDL_HAPTIC_FRICTION = SDL_HAPTIC_FRICTION();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_CUSTOM 2048
@@ -9779,6 +10605,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_CUSTOM() {
         return (int)2048L;
     }
+    /** (int)2048L */
+    public static final int SDL_HAPTIC_CUSTOM = SDL_HAPTIC_CUSTOM();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_GAIN 4096
@@ -9787,6 +10615,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_GAIN() {
         return (int)4096L;
     }
+    /** (int)4096L */
+    public static final int SDL_HAPTIC_GAIN = SDL_HAPTIC_GAIN();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_AUTOCENTER 8192
@@ -9795,6 +10625,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_AUTOCENTER() {
         return (int)8192L;
     }
+    /** (int)8192L */
+    public static final int SDL_HAPTIC_AUTOCENTER = SDL_HAPTIC_AUTOCENTER();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_STATUS 16384
@@ -9803,6 +10635,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_STATUS() {
         return (int)16384L;
     }
+    /** (int)16384L */
+    public static final int SDL_HAPTIC_STATUS = SDL_HAPTIC_STATUS();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_PAUSE 32768
@@ -9811,6 +10645,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_PAUSE() {
         return (int)32768L;
     }
+    /** (int)32768L */
+    public static final int SDL_HAPTIC_PAUSE = SDL_HAPTIC_PAUSE();
     /**
      * {@snippet :
      * #define SDL_HAPTIC_INFINITY 4294967295
@@ -9819,6 +10655,8 @@ public class SDL2_1 {
     public static int SDL_HAPTIC_INFINITY() {
         return (int)4294967295L;
     }
+    /** (int)4294967295L */
+    public static final int SDL_HAPTIC_INFINITY = SDL_HAPTIC_INFINITY();
     /**
      * {@snippet :
      * #define SDL_HINT_ACCELEROMETER_AS_JOYSTICK "SDL_ACCELEROMETER_AS_JOYSTICK"

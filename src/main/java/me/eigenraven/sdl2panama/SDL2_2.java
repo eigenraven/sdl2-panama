@@ -33,6 +33,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_NONSHAPEABLE_WINDOW() {
         return (int)-1L;
     }
+    /** (int)-1L */
+    public static final int SDL_NONSHAPEABLE_WINDOW = SDL_NONSHAPEABLE_WINDOW();
     /**
      * {@snippet :
      * #define SDL_INVALID_SHAPE_ARGUMENT -2
@@ -41,6 +43,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INVALID_SHAPE_ARGUMENT() {
         return (int)-2L;
     }
+    /** (int)-2L */
+    public static final int SDL_INVALID_SHAPE_ARGUMENT = SDL_INVALID_SHAPE_ARGUMENT();
     /**
      * {@snippet :
      * #define SDL_WINDOW_LACKS_SHAPE -3
@@ -49,6 +53,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_WINDOW_LACKS_SHAPE() {
         return (int)-3L;
     }
+    /** (int)-3L */
+    public static final int SDL_WINDOW_LACKS_SHAPE = SDL_WINDOW_LACKS_SHAPE();
     /**
      * {@snippet :
      * #define SDL_COMPILEDVERSION 4605
@@ -57,6 +63,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_COMPILEDVERSION() {
         return (int)4605L;
     }
+    /** (int)4605L */
+    public static final int SDL_COMPILEDVERSION = SDL_COMPILEDVERSION();
     /**
      * {@snippet :
      * #define SDL_INIT_TIMER 1
@@ -65,6 +73,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_TIMER() {
         return (int)1L;
     }
+    /** (int)1L */
+    public static final int SDL_INIT_TIMER = SDL_INIT_TIMER();
     /**
      * {@snippet :
      * #define SDL_INIT_AUDIO 16
@@ -73,6 +83,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_AUDIO() {
         return (int)16L;
     }
+    /** (int)16L */
+    public static final int SDL_INIT_AUDIO = SDL_INIT_AUDIO();
     /**
      * {@snippet :
      * #define SDL_INIT_VIDEO 32
@@ -81,6 +93,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_VIDEO() {
         return (int)32L;
     }
+    /** (int)32L */
+    public static final int SDL_INIT_VIDEO = SDL_INIT_VIDEO();
     /**
      * {@snippet :
      * #define SDL_INIT_JOYSTICK 512
@@ -89,6 +103,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_JOYSTICK() {
         return (int)512L;
     }
+    /** (int)512L */
+    public static final int SDL_INIT_JOYSTICK = SDL_INIT_JOYSTICK();
     /**
      * {@snippet :
      * #define SDL_INIT_HAPTIC 4096
@@ -97,6 +113,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_HAPTIC() {
         return (int)4096L;
     }
+    /** (int)4096L */
+    public static final int SDL_INIT_HAPTIC = SDL_INIT_HAPTIC();
     /**
      * {@snippet :
      * #define SDL_INIT_GAMECONTROLLER 8192
@@ -105,6 +123,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_GAMECONTROLLER() {
         return (int)8192L;
     }
+    /** (int)8192L */
+    public static final int SDL_INIT_GAMECONTROLLER = SDL_INIT_GAMECONTROLLER();
     /**
      * {@snippet :
      * #define SDL_INIT_EVENTS 16384
@@ -113,6 +133,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_EVENTS() {
         return (int)16384L;
     }
+    /** (int)16384L */
+    public static final int SDL_INIT_EVENTS = SDL_INIT_EVENTS();
     /**
      * {@snippet :
      * #define SDL_INIT_SENSOR 32768
@@ -121,6 +143,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_SENSOR() {
         return (int)32768L;
     }
+    /** (int)32768L */
+    public static final int SDL_INIT_SENSOR = SDL_INIT_SENSOR();
     /**
      * {@snippet :
      * #define SDL_INIT_NOPARACHUTE 1048576
@@ -129,6 +153,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_NOPARACHUTE() {
         return (int)1048576L;
     }
+    /** (int)1048576L */
+    public static final int SDL_INIT_NOPARACHUTE = SDL_INIT_NOPARACHUTE();
     /**
      * {@snippet :
      * #define SDL_INIT_EVERYTHING 62001
@@ -137,6 +163,8 @@ public class SDL2_2 extends SDL2_1 {
     public static int SDL_INIT_EVERYTHING() {
         return (int)62001L;
     }
+    /** (int)62001L */
+    public static final int SDL_INIT_EVERYTHING = SDL_INIT_EVERYTHING();
 }
 
 
